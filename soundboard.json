@@ -298,7 +298,20 @@
     {
       "id": "5snaz8h9",
       "title": "Scene 7b",
-      "cues": []
+      "cues": [
+        {
+          "id": "lro7qffe",
+          "text": "Créamu 6 : Curieuse ambiance",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "ca2gy669",
+          "text": "clotho s'assomme",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "3kutu7e5",
