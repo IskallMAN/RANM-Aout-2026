@@ -3,21 +3,55 @@
   "scenes": [
     {
       "id": "na05zcmr",
-      "title": "Scene -1",
+      "title": "Scene 0",
       "cues": [
         {
           "id": "4ic284ja",
           "text": "Bonjor",
           "fileName": "Rock Crash Sound Effects.mp3",
           "path": "sounds/Rock Crash Sound Effects.mp3"
-        },
-        {
-          "id": "puk8fdyp",
-          "text": "Nsodq,sd",
-          "fileName": null,
-          "path": null
         }
       ]
+    },
+    {
+      "id": "8yvymju7",
+      "title": "Scene -1",
+      "cues": []
+    },
+    {
+      "id": "l60ohqix",
+      "title": "Scene 1",
+      "cues": []
+    },
+    {
+      "id": "l8pfp7kw",
+      "title": "Scene 2",
+      "cues": []
+    },
+    {
+      "id": "412rayg1",
+      "title": "Scene 3a",
+      "cues": []
+    },
+    {
+      "id": "zsstgvdt",
+      "title": "Scene 3b",
+      "cues": []
+    },
+    {
+      "id": "nyztvcpz",
+      "title": "Scene 4",
+      "cues": []
+    },
+    {
+      "id": "narf4ecv",
+      "title": "Scene 5",
+      "cues": []
+    },
+    {
+      "id": "y6rg26sp",
+      "title": "Scene 6a",
+      "cues": []
     }
   ]
 }
