@@ -256,13 +256,44 @@
           "text": "Créamu 5 : Trémolo très tendu",
           "fileName": null,
           "path": null
+        },
+        {
+          "id": "r0e6iiga",
+          "text": "Créamu 4 : Au service de sa majesté",
+          "fileName": null,
+          "path": null
         }
       ]
     },
     {
       "id": "o5ah6l8k",
       "title": "Scene 7a",
-      "cues": []
+      "cues": [
+        {
+          "id": "zw5xpa9g",
+          "text": "Créamu 6 : Curieuse ambiance",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "k8t18thc",
+          "text": "Ambiance Moires",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "wd6lbfct",
+          "text": "vent menaçant (\"Mau... maumau... mau... maudite ?\")",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "60daazbw",
+          "text": "\"Cours\" potentiel orage",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "5snaz8h9",
