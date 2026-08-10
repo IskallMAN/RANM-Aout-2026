@@ -52,12 +52,38 @@
     {
       "id": "l60ohqix",
       "title": "Scene 1",
-      "cues": []
+      "cues": [
+        {
+          "id": "dt87b9oj",
+          "text": "créamu 2 : l'Epopée du Roc Enroll",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "l8pfp7kw",
       "title": "Scene 2",
-      "cues": []
+      "cues": [
+        {
+          "id": "ai3cm251",
+          "text": "ambiance foule",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "elyq9oaf",
+          "text": "Rire Sitcom",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "cgoc4753",
+          "text": "Créamu 3 : Polyphème amoureux",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "412rayg1",
