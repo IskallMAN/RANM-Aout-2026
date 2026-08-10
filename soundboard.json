@@ -135,11 +135,23 @@
     },
     {
       "id": "nyztvcpz",
-      "title": "Scene 4",
+      "title": "Scene 4-1",
       "cues": [
         {
           "id": "dp21d10a",
           "text": "Créamu 2 : L'Epopée du roc enroll",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "9shtvwt6",
+          "text": "noooooooooooon",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "u65iww27",
+          "text": "brooooouuuuummmm",
           "fileName": null,
           "path": null
         }
@@ -147,41 +159,71 @@
     },
     {
       "id": "narf4ecv",
+      "title": "Scene 4-2",
+      "cues": [
+        {
+          "id": "51ysichi",
+          "text": "Jaming (Bob Marley)",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "jgo9w3fk",
+          "text": "decrescendo",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "r7v2jr9t",
+          "text": "ils parlent",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "r06nxqnh",
+          "text": "recrescendo",
+          "fileName": null,
+          "path": null
+        }
+      ]
+    },
+    {
+      "id": "y6rg26sp",
       "title": "Scene 5",
       "cues": []
     },
     {
-      "id": "y6rg26sp",
+      "id": "lxa6jabd",
       "title": "Scene 6a",
       "cues": []
     },
     {
-      "id": "lxa6jabd",
+      "id": "kmv7vqzt",
       "title": "Scene 6b",
       "cues": []
     },
     {
-      "id": "kmv7vqzt",
+      "id": "o5ah6l8k",
       "title": "Scene 7a",
       "cues": []
     },
     {
-      "id": "o5ah6l8k",
+      "id": "5snaz8h9",
       "title": "Scene 7b",
       "cues": []
     },
     {
-      "id": "5snaz8h9",
+      "id": "3kutu7e5",
       "title": "Scene oo",
       "cues": []
     },
     {
-      "id": "3kutu7e5",
+      "id": "wslmffex",
       "title": "Scene 8",
       "cues": []
     },
     {
-      "id": "wslmffex",
+      "id": "bgr3ave4",
       "title": "Scene finale",
       "cues": []
     }
