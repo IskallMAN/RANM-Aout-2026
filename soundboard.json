@@ -242,26 +242,26 @@
         {
           "id": "zhqvlb0o",
           "text": "Créamu 4 : Au service de sa majesté ??",
-          "fileName": null,
-          "path": null
+          "fileName": "Au service de sa majest_.mp3",
+          "path": "sounds/Au service de sa majest_.mp3"
         },
         {
           "id": "iyqnxd6c",
           "text": "le Roi fusille le garde du regard",
-          "fileName": null,
-          "path": null
+          "fileName": "le roi th_atre.mp3",
+          "path": "sounds/le roi th_atre.mp3"
         },
         {
           "id": "5axitaoc",
           "text": "Créamu 5 : Trémolo très tendu",
-          "fileName": null,
-          "path": null
+          "fileName": "Tr_molo tr_s tendu.mp3",
+          "path": "sounds/Tr_molo tr_s tendu.mp3"
         },
         {
           "id": "r0e6iiga",
           "text": "Créamu 4 : Au service de sa majesté",
-          "fileName": null,
-          "path": null
+          "fileName": "Au service de sa majest_.mp3",
+          "path": "sounds/Au service de sa majest_.mp3"
         }
       ]
     },
@@ -272,14 +272,14 @@
         {
           "id": "zw5xpa9g",
           "text": "Créamu 6 : Curieuse ambiance",
-          "fileName": null,
-          "path": null
+          "fileName": "Curieuse Abiance.mp3",
+          "path": "sounds/Curieuse Abiance.mp3"
         },
         {
           "id": "k8t18thc",
           "text": "Ambiance Moires",
-          "fileName": null,
-          "path": null
+          "fileName": "moires presque fini.mp3",
+          "path": "sounds/moires presque fini.mp3"
         },
         {
           "id": "wd6lbfct",
@@ -308,8 +308,8 @@
         {
           "id": "ca2gy669",
           "text": "clotho s'assomme",
-          "fileName": null,
-          "path": null
+          "fileName": "clotho s_assomme.mp3",
+          "path": "sounds/clotho s_assomme.mp3"
         }
       ]
     },
@@ -320,8 +320,8 @@
         {
           "id": "ujy1d7ur",
           "text": "Créamu 1 : Pan le mystique",
-          "fileName": null,
-          "path": null
+          "fileName": "Pan le Mystique.mp3",
+          "path": "sounds/Pan le Mystique.mp3"
         },
         {
           "id": "yym8n2z8",
@@ -334,12 +334,26 @@
     {
       "id": "wslmffex",
       "title": "Scene 8",
-      "cues": []
+      "cues": [
+        {
+          "id": "bwtg41iw",
+          "text": "(AHHHHHHHH) : Nice strike",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "bgr3ave4",
       "title": "Scene finale",
-      "cues": []
+      "cues": [
+        {
+          "id": "nyohkwta",
+          "text": "ambiance globale douce",
+          "fileName": null,
+          "path": null
+        }
+      ]
     }
   ]
 }
