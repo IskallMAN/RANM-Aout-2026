@@ -20,8 +20,8 @@
         {
           "id": "k582874p",
           "text": "Pan le mystique",
-          "fileName": null,
-          "path": null
+          "fileName": "Pan le Mystique.mp3",
+          "path": "sounds/Pan le Mystique.mp3"
         }
       ]
     },
@@ -38,8 +38,8 @@
         {
           "id": "58jlhp6e",
           "text": "brooooouuuuummmm",
-          "fileName": null,
-          "path": null
+          "fileName": "Rock Crash Sound Effects.mp3",
+          "path": "sounds/Rock Crash Sound Effects.mp3"
         },
         {
           "id": "vhald1it",
@@ -49,9 +49,9 @@
         },
         {
           "id": "os2m5tcf",
-          "text": "chanson 1 pan le joueur de flûte",
-          "fileName": null,
-          "path": null
+          "text": "chanson 1 pan le mystique",
+          "fileName": "Pan le Mystique.mp3",
+          "path": "sounds/Pan le Mystique.mp3"
         }
       ]
     },
