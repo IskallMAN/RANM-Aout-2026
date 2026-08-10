@@ -6,17 +6,42 @@
       "title": "Scene 0",
       "cues": [
         {
-          "id": "4ic284ja",
-          "text": "Bonjor",
-          "fileName": "Rock Crash Sound Effects.mp3",
-          "path": "sounds/Rock Crash Sound Effects.mp3"
+          "id": "i5tjvzb6",
+          "text": "bêlements moutons (live)",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "1c4h4niu",
+          "text": "brooooouuuuummm",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "k582874p",
+          "text": "Pan le mystique",
+          "fileName": null,
+          "path": null
         }
       ]
     },
     {
       "id": "8yvymju7",
       "title": "Scene -1",
-      "cues": []
+      "cues": [
+        {
+          "id": "h0o0ibxm",
+          "text": "silence",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "58jlhp6e",
+          "text": "brooooouuuuummmm",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "l60ohqix",
