@@ -43,6 +43,12 @@
         },
         {
           "id": "vhald1it",
+          "text": "polyphème apparait",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "os2m5tcf",
           "text": "chanson 1 pan le joueur de flûte",
           "fileName": null,
           "path": null
@@ -88,7 +94,14 @@
     {
       "id": "412rayg1",
       "title": "Scene 3a",
-      "cues": []
+      "cues": [
+        {
+          "id": "pzb21t8e",
+          "text": "Créamu 2 : l'Epopée du Roc Enroll",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "zsstgvdt",
