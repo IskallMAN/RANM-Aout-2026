@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Cue Sheet — Live Soundboard</title>
+<title>Cue Sheet — RANM Aout 2026</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
@@ -21,6 +21,7 @@
     --red:#d9534f;
     --green:#6fae7f;
   }
+
   *{box-sizing:border-box;}
   html,body{
     margin:0;padding:0;height:100%;
@@ -294,6 +295,7 @@
   </div>
   <div class="actions">
     <div class="livecount"><span class="livedot" id="liveDot"></span><span id="liveCountText">nothing playing</span></div>
+    <button class="btn-icon" id="saveBtn">Save</button>
     <button class="stopall" id="stopAllBtn" disabled>Stop All</button>
   </div>
 </div>
@@ -308,11 +310,7 @@
 
 <script>
 /* ---------------- STATE ---------------- */
-let scenes = [
-  { id: uid(), title: "Scene 1", cues: [
-      { id: uid(), text: "Lights up. House goes dark, walk-in music fades out.", fileName:null, url:null }
-  ]}
-];
+let scenes = [];
 // stack: array of {id, cueId, audio, node, dragging}
 let stack = [];
 
@@ -349,13 +347,14 @@ function renderScript(){
           <span class="cue-dot"></span>
           <div style="flex:1;min-width:0;">
             <div class="cue-text" contenteditable="true" data-action="cue-text" data-cue-id="${cue.id}" data-placeholder="Cue text…">${escapeHtml(cue.text)}</div>
-            ${cue.fileName ? `<div class="cue-file">🔊 <span class="fname">${escapeHtml(cue.fileName)}</span></div>` : ''}
+            ${cue.fileName ? `<div class="cue-file">🔊 <span class="fname">${escapeHtml(cue.fileName)}</span>${cue.path?` <span style="color:var(--text-faint);font-size:11px;margin-left:6px">(${escapeHtml(cue.path)})</span>`:''}</div>` : ''}
           </div>
           <div class="cue-actions">
             <label class="btn-icon" title="Attach audio file">
               ${cue.fileName ? 'Replace' : 'Attach'}
               <input type="file" accept="audio/*" style="display:none" data-action="attach" data-cue-id="${cue.id}">
             </label>
+            <button class="btn-icon" data-action="set-path" data-cue-id="${cue.id}">${cue.path? 'Path' : 'Set Path'}</button>
             ${cue.fileName ? `<button class="btn-icon btn-play ${isPlaying?'is-on':''}" data-action="play" data-cue-id="${cue.id}">${isPlaying?'⏸ On':'▶ Play'}</button>` : ''}
             <button class="cue-del" data-action="del-cue" data-cue-id="${cue.id}" title="Delete cue">✕</button>
           </div>
@@ -406,10 +405,29 @@ scriptEl.addEventListener('click', (e)=>{
   else if(action==='add-cue'){
     addCueFromInput(t.dataset.sceneId);
   }
+  else if(action==='set-path'){
+    setCuePath(t.dataset.cueId);
+  }
   else if(action==='play'){
     togglePlay(t.dataset.cueId);
   }
 });
+
+// allow user to set a relative path for a cue's audio file
+function setCuePath(cueId){
+  const found = findCue(cueId);
+  if(!found) return;
+  const current = found.cue.path || '';
+  const p = prompt('Enter relative path to audio file (relative to this HTML file):', current);
+  if(p===null) return; // cancelled
+  const trimmed = p.trim();
+  if(!trimmed){ found.cue.path = null; return renderScript(); }
+  found.cue.path = trimmed;
+  found.cue.fileName = trimmed.split('/').pop();
+  found.cue.url = trimmed; // use as relative URL when playing
+  removeFromStack(cueId, true);
+  renderScript();
+}
 
 scriptEl.addEventListener('keydown', (e)=>{
   if(e.target.dataset.action==='new-cue-input' && e.key==='Enter'){
@@ -441,9 +459,10 @@ scriptEl.addEventListener('change', (e)=>{
     if(!file) return;
     const found = findCue(cueId);
     if(!found) return;
-    if(found.cue.url) URL.revokeObjectURL(found.cue.url);
+    if(found.cue.url && found.cue.url.startsWith && found.cue.url.startsWith('blob:')) URL.revokeObjectURL(found.cue.url);
     found.cue.url = URL.createObjectURL(file);
     found.cue.fileName = file.name;
+    found.cue.path = null; // attached file, not a relative path
     removeFromStack(cueId, true); // if it was playing an old file, stop it
     renderScript();
   }
@@ -641,9 +660,78 @@ function fmtTime(s){
 }
 
 /* ---------------- INIT ---------------- */
-renderScript();
-renderStackEmptyState();
-updateLiveIndicator();
+// try to load a JSON template file named `soundboard.json` in the same folder
+function loadTemplate(){
+  fetch('soundboard.json').then(r=>{
+    if(!r.ok) throw new Error('no template');
+    return r.json();
+  }).then(data=>{
+    if(data.title) document.getElementById('showTitle').value = data.title;
+    if(Array.isArray(data.scenes)){
+      scenes = data.scenes.map(s=>({
+        id: s.id || uid(),
+        title: s.title || 'Untitled Scene',
+        cues: (s.cues||[]).map(c=>({
+          id: c.id || uid(),
+          text: c.text || '',
+          fileName: c.fileName || (c.path? c.path.split('/').pop(): null),
+          path: c.path || null,
+          url: c.path || c.url || null
+        }))
+      }));
+    }
+    renderScript();
+    renderStackEmptyState();
+    updateLiveIndicator();
+  }).catch(err=>{
+    // fallback default
+    if(scenes.length===0){
+      scenes = [{ id: uid(), title: "Scene 1", cues: [ { id: uid(), text: "Lights up. House goes dark, walk-in music fades out.", fileName:null, url:null, path:null } ] }];
+    }
+    renderScript();
+    renderStackEmptyState();
+    updateLiveIndicator();
+  });
+}
+
+// save current layout to JSON and download it
+document.getElementById('saveBtn').addEventListener('click', async ()=>{
+  const data = {
+    title: document.getElementById('showTitle').value,
+    scenes: scenes.map(s=>({ id: s.id, title: s.title, cues: s.cues.map(c=>({ id: c.id, text: c.text, fileName: c.fileName || null, path: c.path || null })) }))
+  };
+
+  // try to POST to a local helper server (see save-server.js) to overwrite soundboard.json
+  try{
+    const res = await fetch('http://127.0.0.1:3000/save', {
+      method: 'POST',
+      mode: 'cors',
+      headers: {'Content-Type':'application/json'},
+      body: JSON.stringify(data),
+      cache: 'no-store'
+    });
+    if(res.ok){
+      const msg = await res.text();
+      console.log('Saved to disk:', msg);
+      alert('Saved to soundboard.json');
+      return;
+    }
+  }catch(err){
+    console.warn('Local save failed, falling back to download:', err);
+  }
+
+  // fallback: download JSON file
+  const str = JSON.stringify(data, null, 2);
+  const blob = new Blob([str], {type:'application/json'});
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  const name = 'soundboard.json';
+  a.download = name;
+  a.click();
+  URL.revokeObjectURL(a.href);
+});
+
+loadTemplate();
 </script>
 </body>
 </html>

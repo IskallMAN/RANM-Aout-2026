@@ -1,0 +1,17 @@
+{
+  "title": "RANM-Aout-2026",
+  "scenes": [
+    {
+      "id": "na05zcmr",
+      "title": "Scene -1",
+      "cues": [
+        {
+          "id": "1panmdr4",
+          "text": "First cue",
+          "fileName": "Rock Crash Sound Effects.mp3",
+          "path": null
+        }
+      ]
+    }
+  ]
+}
