@@ -6,9 +6,15 @@
       "title": "Scene -1",
       "cues": [
         {
-          "id": "1panmdr4",
-          "text": "First cue",
+          "id": "4ic284ja",
+          "text": "Bonjor",
           "fileName": "Rock Crash Sound Effects.mp3",
+          "path": "sounds/Rock Crash Sound Effects.mp3"
+        },
+        {
+          "id": "puk8fdyp",
+          "text": "Nsodq,sd",
+          "fileName": null,
           "path": null
         }
       ]
