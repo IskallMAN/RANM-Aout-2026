@@ -106,18 +106,44 @@
           "text": "Créamu 2 : l'Epopée du Roc Enroll",
           "fileName": null,
           "path": null
+        },
+        {
+          "id": "v1g6epw8",
+          "text": "Enroll se lève",
+          "fileName": null,
+          "path": null
         }
       ]
     },
     {
       "id": "zsstgvdt",
       "title": "Scene 3b",
-      "cues": []
+      "cues": [
+        {
+          "id": "vlg8zquc",
+          "text": "ils sortent de scène",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "062wlofv",
+          "text": "tonnerre menaçant",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "nyztvcpz",
       "title": "Scene 4",
-      "cues": []
+      "cues": [
+        {
+          "id": "dp21d10a",
+          "text": "Créamu 2 : L'Epopée du roc enroll",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "narf4ecv",
