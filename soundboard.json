@@ -62,14 +62,14 @@
         {
           "id": "dt87b9oj",
           "text": "couinements",
-          "fileName": null,
-          "path": null
+          "fileName": "couinements chariot.mp3",
+          "path": "sounds/couinements chariot.mp3"
         },
         {
           "id": "014v9g18",
           "text": "créamu 2 : l'Epopée du Roc Enroll",
-          "fileName": null,
-          "path": null
+          "fileName": "L__pop_e du Rock Enroll.mp3",
+          "path": "sounds/L__pop_e du Rock Enroll.mp3"
         }
       ]
     },
@@ -86,14 +86,14 @@
         {
           "id": "elyq9oaf",
           "text": "Rire Sitcom",
-          "fileName": null,
-          "path": null
+          "fileName": "Rires Sitcom.WAV",
+          "path": "sounds/Rires Sitcom.WAV"
         },
         {
           "id": "cgoc4753",
           "text": "Créamu 3 : Polyphème amoureux",
-          "fileName": null,
-          "path": null
+          "fileName": "Polyph_me Amoureux.mp3",
+          "path": "sounds/Polyph_me Amoureux.mp3"
         }
       ]
     },
@@ -104,14 +104,14 @@
         {
           "id": "pzb21t8e",
           "text": "Créamu 2 : l'Epopée du Roc Enroll",
-          "fileName": null,
-          "path": null
+          "fileName": "L__pop_e du Rock Enroll.mp3",
+          "path": "sounds/L__pop_e du Rock Enroll.mp3"
         },
         {
           "id": "v1g6epw8",
           "text": "Enroll se lève",
-          "fileName": null,
-          "path": null
+          "fileName": "enroll se l_ve.mp3",
+          "path": "sounds/enroll se l_ve.mp3"
         }
       ]
     },
@@ -128,8 +128,8 @@
         {
           "id": "062wlofv",
           "text": "tonnerre menaçant",
-          "fileName": null,
-          "path": null
+          "fileName": "le roi th_atre.mp3",
+          "path": "sounds/le roi th_atre.mp3"
         }
       ]
     },
