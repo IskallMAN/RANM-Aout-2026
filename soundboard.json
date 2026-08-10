@@ -212,26 +212,26 @@
         {
           "id": "dkcels4w",
           "text": "Créamu 4 : Au service de sa majesté",
-          "fileName": null,
-          "path": null
+          "fileName": "Au service de sa majest_.mp3",
+          "path": "sounds/Au service de sa majest_.mp3"
         },
         {
           "id": "4gmk0o13",
           "text": "grattements faibles",
-          "fileName": null,
-          "path": null
+          "fileName": "frottements2.mp3",
+          "path": "sounds/frottements2.mp3"
         },
         {
           "id": "ut0kc067",
           "text": "grattements forts",
-          "fileName": null,
-          "path": null
+          "fileName": "frottements3.mp3",
+          "path": "sounds/frottements3.mp3"
         },
         {
           "id": "w0zh55db",
           "text": "Créamu 4 : Au service de sa majesté",
-          "fileName": null,
-          "path": null
+          "fileName": "Au service de sa majest_.mp3",
+          "path": "sounds/Au service de sa majest_.mp3"
         }
       ]
     },
