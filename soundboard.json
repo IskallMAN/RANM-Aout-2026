@@ -190,7 +190,20 @@
     {
       "id": "y6rg26sp",
       "title": "Scene 5",
-      "cues": []
+      "cues": [
+        {
+          "id": "pv39qeww",
+          "text": "périssoire entrée",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "bme7uecd",
+          "text": "bruit écriture",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "lxa6jabd",
