@@ -316,7 +316,20 @@
     {
       "id": "3kutu7e5",
       "title": "Scene oo",
-      "cues": []
+      "cues": [
+        {
+          "id": "ujy1d7ur",
+          "text": "Créamu 1 : Pan le mystique",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "yym8n2z8",
+          "text": "decrescendo, quand Pan parle plus de musique",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "wslmffex",
