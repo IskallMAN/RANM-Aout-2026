@@ -208,12 +208,56 @@
     {
       "id": "lxa6jabd",
       "title": "Scene 6a",
-      "cues": []
+      "cues": [
+        {
+          "id": "dkcels4w",
+          "text": "Créamu 4 : Au service de sa majesté",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "4gmk0o13",
+          "text": "grattements faibles",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "ut0kc067",
+          "text": "grattements forts",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "w0zh55db",
+          "text": "Créamu 4 : Au service de sa majesté",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "kmv7vqzt",
       "title": "Scene 6b",
-      "cues": []
+      "cues": [
+        {
+          "id": "zhqvlb0o",
+          "text": "Créamu 4 : Au service de sa majesté ??",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "iyqnxd6c",
+          "text": "le Roi fusille le garde du regard",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "5axitaoc",
+          "text": "Créamu 5 : Trémolo très tendu",
+          "fileName": null,
+          "path": null
+        }
+      ]
     },
     {
       "id": "o5ah6l8k",
