@@ -142,6 +142,12 @@
           "text": "Créamu 3 : Polyphème amoureux",
           "fileName": "Polyph_me Amoureux.mp3",
           "path": "sounds/Polyph_me Amoureux.mp3"
+        },
+        {
+          "id": "vkxma2ym",
+          "text": "Chanson 2 : Polyphème amoureux",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -178,6 +184,12 @@
           "text": "tonnerre menaçant",
           "fileName": "le roi th_atre.mp3",
           "path": "sounds/le roi th_atre.mp3"
+        },
+        {
+          "id": "vcb1mq2y",
+          "text": "Chanson 3 : absurde",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -248,6 +260,12 @@
         {
           "id": "bme7uecd",
           "text": "bruit écriture",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "2pyt2h0i",
+          "text": "chanson 4 : Vague à l'âme",
           "fileName": null,
           "path": null
         }
@@ -328,6 +346,18 @@
           "text": "vent menaçant (\"Mau... maumau... mau... maudite ?\")",
           "fileName": null,
           "path": null
+        },
+        {
+          "id": "p4au8plk",
+          "text": "Noir",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "43en0cax",
+          "text": "Créamu 6 : Curieuse ambiance",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -336,8 +366,8 @@
       "title": "Scène 7b : Clotho aiie",
       "cues": [
         {
-          "id": "lro7qffe",
-          "text": "Créamu 6 : Curieuse ambiance",
+          "id": "tecuj6ob",
+          "text": "pas noir",
           "fileName": null,
           "path": null
         },
@@ -346,6 +376,18 @@
           "text": "clotho s'assomme",
           "fileName": "clotho s_assomme encore.mp3",
           "path": "sounds/clotho s_assomme encore.mp3"
+        },
+        {
+          "id": "sbvozbsu",
+          "text": "Noir",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "ftn0y6dr",
+          "text": "Chanson 5 : Chanson des Moires",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -376,6 +418,12 @@
           "text": "(AHHHHH) strike",
           "fileName": "strike.mp3",
           "path": "sounds/strike.mp3"
+        },
+        {
+          "id": "s1v7dfzc",
+          "text": "Chanson 6 : La java du cactus et du hérisson",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -388,6 +436,12 @@
           "text": "ambiance globale douce",
           "fileName": "on a fini l_ambiance finale.mp3",
           "path": "sounds/on a fini l_ambiance finale.mp3"
+        },
+        {
+          "id": "vwdg6pde",
+          "text": "Chanson finale : les Moutons dans le ciel",
+          "fileName": null,
+          "path": null
         }
       ]
     }
