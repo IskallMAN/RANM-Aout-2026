@@ -36,16 +36,16 @@
           "path": null
         },
         {
-          "id": "58jlhp6e",
-          "text": "brooooouuuuummmm",
-          "fileName": "Rock Crash Sound Effects.mp3",
-          "path": "sounds/Rock Crash Sound Effects.mp3"
-        },
-        {
           "id": "vhald1it",
           "text": "polyphème apparait",
           "fileName": null,
           "path": null
+        },
+        {
+          "id": "58jlhp6e",
+          "text": "brooooouuuuummmm",
+          "fileName": "Rock Crash Sound Effects.mp3",
+          "path": "sounds/Rock Crash Sound Effects.mp3"
         },
         {
           "id": "os2m5tcf",
@@ -94,6 +94,12 @@
           "text": "ambiance foule",
           "fileName": "foule .mp3",
           "path": "sounds/foule .mp3"
+        },
+        {
+          "id": "0wbf8kkx",
+          "text": "bruit de crayon (albert camus)",
+          "fileName": null,
+          "path": null
         },
         {
           "id": "elyq9oaf",
@@ -176,8 +182,8 @@
         {
           "id": "51ysichi",
           "text": "Jaming (Bob Marley)",
-          "fileName": null,
-          "path": null
+          "fileName": "Bob Marley Jammin.mp3",
+          "path": "sounds/Bob Marley Jammin.mp3"
         },
         {
           "id": "jgo9w3fk",
@@ -252,12 +258,6 @@
       "title": "Scene 6b",
       "cues": [
         {
-          "id": "zhqvlb0o",
-          "text": "Créamu 4 : Au service de sa majesté ??",
-          "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3"
-        },
-        {
           "id": "iyqnxd6c",
           "text": "le Roi fusille le garde du regard",
           "fileName": "le roi th_atre.mp3",
@@ -296,12 +296,6 @@
         {
           "id": "wd6lbfct",
           "text": "vent menaçant (\"Mau... maumau... mau... maudite ?\")",
-          "fileName": null,
-          "path": null
-        },
-        {
-          "id": "60daazbw",
-          "text": "\"Cours\" potentiel orage",
           "fileName": null,
           "path": null
         }
