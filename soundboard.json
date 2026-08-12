@@ -3,7 +3,7 @@
   "scenes": [
     {
       "id": "na05zcmr",
-      "title": "Scene 0 : Moutons",
+      "title": "Scène 0 : Moutons",
       "cues": [
         {
           "id": "i5tjvzb6",
@@ -27,7 +27,7 @@
     },
     {
       "id": "8yvymju7",
-      "title": "Scene -1 : maisquestcequisestpassé ?",
+      "title": "Scène -1 : Maisquestcequisestpassé ?",
       "cues": [
         {
           "id": "h0o0ibxm",
@@ -57,7 +57,7 @@
     },
     {
       "id": "l60ohqix",
-      "title": "Scene 1 : rencontre avec enroll",
+      "title": "Scène 1 : Rencontre avec Enroll",
       "cues": [
         {
           "id": "dt87b9oj",
@@ -87,7 +87,7 @@
     },
     {
       "id": "l8pfp7kw",
-      "title": "Scene 2 : polyfemme",
+      "title": "Scène 2 : Polyfemme",
       "cues": [
         {
           "id": "ai3cm251",
@@ -117,7 +117,7 @@
     },
     {
       "id": "412rayg1",
-      "title": "Scene 3a : perdus ?",
+      "title": "Scène 3a : Perdus ?",
       "cues": [
         {
           "id": "pzb21t8e",
@@ -135,7 +135,7 @@
     },
     {
       "id": "zsstgvdt",
-      "title": "Scene 3b :",
+      "title": "Scène 3b : Philosophes",
       "cues": [
         {
           "id": "vlg8zquc",
@@ -153,7 +153,7 @@
     },
     {
       "id": "nyztvcpz",
-      "title": "Scene 4-1",
+      "title": "Scène 4-1 : Chute d'Enroll",
       "cues": [
         {
           "id": "dp21d10a",
@@ -177,7 +177,7 @@
     },
     {
       "id": "narf4ecv",
-      "title": "Scene 4-2",
+      "title": "Scène 4-2 : La mousse",
       "cues": [
         {
           "id": "51ysichi",
@@ -207,7 +207,7 @@
     },
     {
       "id": "y6rg26sp",
-      "title": "Scene 5",
+      "title": "Scène 5 : Panmuphle",
       "cues": [
         {
           "id": "pv39qeww",
@@ -225,7 +225,7 @@
     },
     {
       "id": "lxa6jabd",
-      "title": "Scene 6a",
+      "title": "Scène 6a : Les reines...",
       "cues": [
         {
           "id": "dkcels4w",
@@ -255,7 +255,7 @@
     },
     {
       "id": "kmv7vqzt",
-      "title": "Scene 6b",
+      "title": "Scène 6b : Elles ne savent pas tout",
       "cues": [
         {
           "id": "iyqnxd6c",
@@ -279,7 +279,7 @@
     },
     {
       "id": "o5ah6l8k",
-      "title": "Scene 7a",
+      "title": "Scène 7a : Moires",
       "cues": [
         {
           "id": "zw5xpa9g",
@@ -303,7 +303,7 @@
     },
     {
       "id": "5snaz8h9",
-      "title": "Scene 7b",
+      "title": "Scène 7b : Clotho aiie",
       "cues": [
         {
           "id": "lro7qffe",
@@ -321,7 +321,7 @@
     },
     {
       "id": "3kutu7e5",
-      "title": "Scene oo",
+      "title": "Scène oo : Pause",
       "cues": [
         {
           "id": "ujy1d7ur",
@@ -339,7 +339,7 @@
     },
     {
       "id": "wslmffex",
-      "title": "Scene 8",
+      "title": "Scène 8 : L'esclavage c'est mal",
       "cues": [
         {
           "id": "bwtg41iw",
@@ -351,7 +351,7 @@
     },
     {
       "id": "bgr3ave4",
-      "title": "Scene finale",
+      "title": "Scène finale : Enfin rentré",
       "cues": [
         {
           "id": "nyohkwta",
