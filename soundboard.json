@@ -290,8 +290,8 @@
         {
           "id": "k8t18thc",
           "text": "Ambiance Moires",
-          "fileName": "moires presque fini.mp3",
-          "path": "sounds/moires presque fini.mp3"
+          "fileName": "Moires.mp3",
+          "path": "sounds/Moires.mp3"
         },
         {
           "id": "wd6lbfct",
@@ -314,8 +314,8 @@
         {
           "id": "ca2gy669",
           "text": "clotho s'assomme",
-          "fileName": "clotho s_assomme.mp3",
-          "path": "sounds/clotho s_assomme.mp3"
+          "fileName": "clotho s_assomme encore.mp3",
+          "path": "sounds/clotho s_assomme encore.mp3"
         }
       ]
     },
@@ -343,9 +343,9 @@
       "cues": [
         {
           "id": "bwtg41iw",
-          "text": "(AHHHHHHHH) : Nice strike",
-          "fileName": null,
-          "path": null
+          "text": "(AHHHHH) strike",
+          "fileName": "strike.mp3",
+          "path": "sounds/strike.mp3"
         }
       ]
     },
@@ -356,8 +356,8 @@
         {
           "id": "nyohkwta",
           "text": "ambiance globale douce",
-          "fileName": null,
-          "path": null
+          "fileName": "on a fini l_ambiance finale.mp3",
+          "path": "sounds/on a fini l_ambiance finale.mp3"
         }
       ]
     }
