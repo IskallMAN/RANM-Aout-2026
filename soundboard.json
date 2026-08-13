@@ -132,6 +132,12 @@
       "title": "Scène 2 : Polyfemme",
       "cues": [
         {
+          "id": "fjgafx0b",
+          "text": "ville R10 G6.3 B2.2",
+          "fileName": null,
+          "path": null
+        },
+        {
           "id": "ai3cm251",
           "text": "ambiance foule",
           "fileName": "foule .mp3",
@@ -160,6 +166,12 @@
           "text": "Chanson 2 : Polyphème amoureux",
           "fileName": null,
           "path": null
+        },
+        {
+          "id": "ge3z0gv9",
+          "text": "Noir",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -167,6 +179,12 @@
       "id": "412rayg1",
       "title": "Scène 3a : Perdus ?",
       "cues": [
+        {
+          "id": "nj39j92t",
+          "text": "blanc chaud R8.3 G8.3 B6.2",
+          "fileName": null,
+          "path": null
+        },
         {
           "id": "pzb21t8e",
           "text": "Créamu 2 : l'Epopée du Roc Enroll",
