@@ -196,6 +196,12 @@
           "text": "Enroll se lève",
           "fileName": "enroll se l_ve.mp3",
           "path": "sounds/enroll se l_ve.mp3"
+        },
+        {
+          "id": "lvetsrb1",
+          "text": "PAS NOIR",
+          "fileName": null,
+          "path": null
         }
       ]
     },
@@ -218,6 +224,12 @@
         {
           "id": "vcb1mq2y",
           "text": "Chanson 3 : absurde",
+          "fileName": null,
+          "path": null
+        },
+        {
+          "id": "d0otqm9m",
+          "text": "Noir",
           "fileName": null,
           "path": null
         }
@@ -244,6 +256,12 @@
           "text": "brooooouuuuummmm",
           "fileName": "Rock Crash Sound Effects.mp3",
           "path": "sounds/Rock Crash Sound Effects.mp3"
+        },
+        {
+          "id": "on0v3ho3",
+          "text": "R8.2 G4.3 B2.3",
+          "fileName": null,
+          "path": null
         }
       ]
     },
