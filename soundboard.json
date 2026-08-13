@@ -240,6 +240,12 @@
       "title": "Scène 4-1 : Chute d'Enroll",
       "cues": [
         {
+          "id": "on0v3ho3",
+          "text": "R8.2 G4.3 B2.3",
+          "fileName": null,
+          "path": null
+        },
+        {
           "id": "dp21d10a",
           "text": "Créamu 2 : L'Epopée du roc enroll",
           "fileName": "L__pop_e du Rock Enroll.mp3",
@@ -256,12 +262,6 @@
           "text": "brooooouuuuummmm",
           "fileName": "Rock Crash Sound Effects.mp3",
           "path": "sounds/Rock Crash Sound Effects.mp3"
-        },
-        {
-          "id": "on0v3ho3",
-          "text": "R8.2 G4.3 B2.3",
-          "fileName": null,
-          "path": null
         }
       ]
     },
