@@ -152,8 +152,8 @@
         {
           "id": "0wbf8kkx",
           "text": "bruit de crayon (albert camus)",
-          "fileName": null,
-          "path": null
+          "fileName": "_criture.mp3",
+          "path": "sounds/_criture.mp3"
         },
         {
           "id": "elyq9oaf",
@@ -308,14 +308,14 @@
         {
           "id": "pv39qeww",
           "text": "périssoire entrée",
-          "fileName": null,
-          "path": null
+          "fileName": "p_rissoire.mp3",
+          "path": "sounds/p_rissoire.mp3"
         },
         {
           "id": "bme7uecd",
           "text": "bruit écriture",
-          "fileName": null,
-          "path": null
+          "fileName": "_criture.mp3",
+          "path": "sounds/_criture.mp3"
         },
         {
           "id": "2pyt2h0i",
