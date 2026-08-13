@@ -90,6 +90,12 @@
       "title": "Scène 1 : Rencontre avec Enroll",
       "cues": [
         {
+          "id": "llqeym7e",
+          "text": "blanc chaud R10 G7.5 B2",
+          "fileName": null,
+          "path": null
+        },
+        {
           "id": "dt87b9oj",
           "text": "couinements aigus",
           "fileName": "couinements aigus.mp3",
@@ -112,6 +118,12 @@
           "text": "créamu 2 : L'Epopée du Roc Enroll",
           "fileName": "L__pop_e du Rock Enroll.mp3",
           "path": "sounds/L__pop_e du Rock Enroll.mp3"
+        },
+        {
+          "id": "eozrqjy9",
+          "text": "Noir",
+          "fileName": null,
+          "path": null
         }
       ]
     },
