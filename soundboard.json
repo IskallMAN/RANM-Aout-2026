@@ -501,11 +501,25 @@
       "title": "Scène 6a : Les reines...",
       "cues": [
         {
+          "id": "0xljegfo",
+          "text": "lumière",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "dkcels4w",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
           "path": "sounds/Au service de sa majest_.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "c4vijezu",
+          "text": "Signal",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
         },
         {
           "id": "4gmk0o13",
@@ -534,6 +548,13 @@
       "id": "kmv7vqzt",
       "title": "Scène 6b : Elles ne savent pas tout",
       "cues": [
+        {
+          "id": "9bdkxbn6",
+          "text": "Une Reine : \"Ah oui, hehe, j'avais complètement oubliée que j'avais fait mettre ça partout, hehe.\"    Rire du garde",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
         {
           "id": "iyqnxd6c",
           "text": "(le Roi fusille le garde du regard)",
