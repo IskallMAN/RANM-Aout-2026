@@ -399,7 +399,7 @@
         },
         {
           "id": "ncptxulo",
-          "text": "Lumière",
+          "text": "côtés R8.2 G8 B0   Milieu R10 G0 B6",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -446,8 +446,15 @@
       "title": "Scène 5 : Panmuphle",
       "cues": [
         {
+          "id": "ucedymxo",
+          "text": "attendre que panmuphle soit placé",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "xua7ux7k",
-          "text": "lumière",
+          "text": "côtés R4.1 G8.2 B8.2  centre R6- G10 B10",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -509,7 +516,7 @@
       "cues": [
         {
           "id": "0xljegfo",
-          "text": "lumière",
+          "text": "côté R8.3 G4.1 B2  Centre blanc",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -578,7 +585,7 @@
       "cues": [
         {
           "id": "uee83qxv",
-          "text": "lumière",
+          "text": "en fait non",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -624,6 +631,13 @@
           "fileName": "Au service de sa majest_.mp3",
           "path": "sounds/Au service de sa majest_.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "gnqmkuui",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
