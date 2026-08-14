@@ -213,13 +213,6 @@
           "backgroundColor": "#B794F4"
         },
         {
-          "id": "0wbf8kkx",
-          "text": "(bruit de crayon (albert camus))",
-          "fileName": "_criture.mp3",
-          "path": "sounds/_criture.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
           "id": "tu3hoxi6",
           "text": "Mais j'y crois pas ! T'es encore plus bête qu'on n'dit! tu t'appelles PolyphEme et pas PolyphAme",
           "fileName": null,
@@ -624,20 +617,6 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "9bdkxbn6",
-          "text": "Une Reine : \"Ah oui, hehe, j'avais complètement oubliée que j'avais fait mettre ça partout, hehe.\"    Rire du garde",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "iyqnxd6c",
-          "text": "(le Roi fusille le garde du regard)",
-          "fileName": "tonnerre mena_ant.mp3",
-          "path": "sounds/tonnerre mena_ant.mp3",
-          "backgroundColor": "#B794F4"
         },
         {
           "id": "gf7q9xt8",
