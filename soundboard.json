@@ -735,13 +735,6 @@
       "title": "Scène oo : Pause",
       "cues": [
         {
-          "id": "cs8ic6br",
-          "text": "Eclairage centre scène",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
           "id": "ujy1d7ur",
           "text": "Créamu 1 : Pan le mystique",
           "fileName": "Pan le Mystique.mp3",
@@ -749,11 +742,39 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "cs8ic6br",
+          "text": "Eclairage centre scène",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "yym8n2z8",
           "text": "decrescendo, quand Pan parle plus de musique",
           "fileName": null,
           "path": null,
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "7kaw88pu",
+          "text": "[...] il serait temps de réveiller et de remettre debout ce pauvre 8, histoire de ne pas terminer à minuit. Lui ? Laisson le ici si c'est son souhait.",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "sy6m52mb",
+          "text": "Il sort",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "lfcn32vo",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
