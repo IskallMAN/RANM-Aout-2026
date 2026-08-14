@@ -338,14 +338,14 @@
         {
           "id": "4gmk0o13",
           "text": "(grattements faibles)",
-          "fileName": "frottements2.mp3",
-          "path": "sounds/frottements2.mp3"
+          "fileName": "frottements faibles.mp3",
+          "path": "sounds/frottements faibles.mp3"
         },
         {
           "id": "ut0kc067",
           "text": "(grattements forts)",
-          "fileName": "frottements3.mp3",
-          "path": "sounds/frottements3.mp3"
+          "fileName": "frottements forts.mp3",
+          "path": "sounds/frottements forts.mp3"
         },
         {
           "id": "w0zh55db",
@@ -362,8 +362,8 @@
         {
           "id": "iyqnxd6c",
           "text": "(le Roi fusille le garde du regard)",
-          "fileName": "le roi th_atre.mp3",
-          "path": "sounds/le roi th_atre.mp3"
+          "fileName": "tonnerre mena_ant.mp3",
+          "path": "sounds/tonnerre mena_ant.mp3"
         },
         {
           "id": "5axitaoc",
