@@ -96,6 +96,13 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "0gs5rdc2",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "7iku5b5t",
           "text": "chanson 1 pan le mystique",
           "fileName": null,
@@ -113,7 +120,7 @@
           "text": "blanc chaud R8.3 G8.3 B6.2",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "dt87b9oj",
@@ -148,7 +155,7 @@
           "text": "Noir",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
@@ -161,49 +168,49 @@
           "text": "ville R10 G6.3 B2.2",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "ai3cm251",
           "text": "ambiance foule",
           "fileName": "foule.mp3",
           "path": "sounds/foule.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "0wbf8kkx",
           "text": "bruit de crayon (albert camus)",
           "fileName": "_criture.mp3",
           "path": "sounds/_criture.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "elyq9oaf",
           "text": "Rire Sitcom",
           "fileName": "Rires Sitcom.mp3",
           "path": "sounds/Rires Sitcom.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "cgoc4753",
           "text": "Créamu 3 : Polyphème amoureux",
           "fileName": "Polyph_me Amoureux.mp3",
           "path": "sounds/Polyph_me Amoureux.mp3",
-          "backgroundColor": null
-        },
-        {
-          "id": "vkxma2ym",
-          "text": "Chanson 2 : Polyphème amoureux",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "ge3z0gv9",
           "text": "Noir",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "vkxma2ym",
+          "text": "Chanson 2 : Polyphème amoureux",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#D9534F"
         }
       ]
     },
@@ -216,28 +223,28 @@
           "text": "blanc chaud R8.3 G8.3 B6.2",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "pzb21t8e",
           "text": "Créamu 2 : l'Epopée du Roc Enroll",
           "fileName": "Rock Enroll 2_session.mp3",
           "path": "sounds/Rock Enroll 2_session.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "v1g6epw8",
           "text": "Enroll se lève",
           "fileName": "enroll se l_ve.mp3",
           "path": "sounds/enroll se l_ve.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "lvetsrb1",
           "text": "PAS NOIR",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
@@ -250,28 +257,28 @@
           "text": "ils sortent de scène",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#6FAE7F"
         },
         {
           "id": "062wlofv",
           "text": "tonnerre menaçant",
           "fileName": "tonnerre mena_ant.mp3",
           "path": "sounds/tonnerre mena_ant.mp3",
-          "backgroundColor": null
-        },
-        {
-          "id": "vcb1mq2y",
-          "text": "Chanson 3 : absurde",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "d0otqm9m",
           "text": "Noir",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "vcb1mq2y",
+          "text": "Chanson 3 : absurde",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#D9534F"
         }
       ]
     },
@@ -284,7 +291,7 @@
           "text": "R8.2 G4.3 B2.3",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "dp21d10a",
