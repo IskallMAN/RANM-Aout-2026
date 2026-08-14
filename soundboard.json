@@ -362,6 +362,20 @@
           "fileName": "Rock Crash Sound Effects.mp3",
           "path": "sounds/Rock Crash Sound Effects.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "55s0dojs",
+          "text": "sortie des acteurs",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "lot2ro6r",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
@@ -403,6 +417,20 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "ailzsbp2",
+          "text": "signal de guilhem",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "tjk3p9iq",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
@@ -411,6 +439,20 @@
       "title": "Scène 5 : Panmuphle",
       "cues": [
         {
+          "id": "xua7ux7k",
+          "text": "lumière",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "peqr9g3r",
+          "text": "entrée de la périssoire",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "pv39qeww",
           "text": "périssoire entrée",
           "fileName": "p_rissoire.mp3",
@@ -418,11 +460,32 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "wcnvirwg",
+          "text": "Panmuphle monologue d'intro : \"planche... Dégeulasses, et décide, devant public, d'y installer un satiatoire avant d'entamer l'ascension du mont sus-cité.  Mmmh satiatoire...\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "bme7uecd",
           "text": "bruit écriture",
           "fileName": "_criture.mp3",
           "path": "sounds/_criture.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "h1zlr3ho",
+          "text": "Pan : \"tourne toi pour voir, peut être que sous un autre angle [...]\"                                                  Panmuphle : \"va-t-en donc, mais va-t-en donc !\"                                                                                         Sortie de Pan",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "2gslhymv",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "2pyt2h0i",
