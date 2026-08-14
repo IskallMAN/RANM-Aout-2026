@@ -570,6 +570,13 @@
       "title": "Scène 6b : Elles ne savent pas tout",
       "cues": [
         {
+          "id": "uee83qxv",
+          "text": "lumière",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "9bdkxbn6",
           "text": "Une Reine : \"Ah oui, hehe, j'avais complètement oubliée que j'avais fait mettre ça partout, hehe.\"    Rire du garde",
           "fileName": null,
@@ -584,11 +591,25 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "gf7q9xt8",
+          "text": "Une Reine : \"Au revoir, bon courage !\"                                                                                                            Acis : \"Merci !                                                                                                                                                    Une Reine : \"Vous êtes cernés !",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "5axitaoc",
           "text": "Créamu 5 : Trémolo très tendu",
           "fileName": "Tr_molo tr_s tendu.mp3",
           "path": "sounds/Tr_molo tr_s tendu.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "loprnqoa",
+          "text": "Une Reine :\"Hmmm... dur, dur... ,bon, à plus !                                                                                                                     Mais tu vas arrêter de te gratter toi ?\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
         },
         {
           "id": "r0e6iiga",
@@ -603,6 +624,13 @@
       "id": "o5ah6l8k",
       "title": "Scène 7a : Moires",
       "cues": [
+        {
+          "id": "ju8papkr",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
         {
           "id": "zw5xpa9g",
           "text": "Créamu 6 : Curieuse ambiance",
@@ -637,6 +665,13 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "jcn9lw0t",
+          "text": "Blabla rocher perdu...                                                                                                                          Galatée : \"vraiment ?\"                                                                                                                        Lachésis : \"Oui, vous savez, on n'a pas tellement de visiteurs ici. La fôret est dense et maudite, alors ça repousse un peu les randonneurs.\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
         }
       ]
     },
