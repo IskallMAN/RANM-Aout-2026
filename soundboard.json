@@ -9,43 +9,50 @@
           "id": "9v1q3uaf",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "tq5rii9o",
           "text": "bêlements moutons doux (live)",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "1c4h4niu",
           "text": "sifflement et brooooouuuuummm",
           "fileName": "sifflement et broum.mp3",
-          "path": "sounds/sifflement et broum.mp3"
+          "path": "sounds/sifflement et broum.mp3",
+          "backgroundColor": null
         },
         {
           "id": "ye4jq725",
           "text": "Rouge",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "adkzmhw4",
           "text": "bêlements moutons forts (live)",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "rzd52k9i",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "k582874p",
           "text": "Pan le mystique",
           "fileName": "Pan le Mystique.mp3",
-          "path": "sounds/Pan le Mystique.mp3"
+          "path": "sounds/Pan le Mystique.mp3",
+          "backgroundColor": null
         }
       ]
     },
@@ -57,37 +64,43 @@
           "id": "h0o0ibxm",
           "text": "silence",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "bshgkaey",
           "text": "spot blanc centre scène",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "vhald1it",
           "text": "polyphème apparait",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "58jlhp6e",
           "text": "brooooouuuuummmm",
           "fileName": "Rock Crash Sound Effects.mp3",
-          "path": "sounds/Rock Crash Sound Effects.mp3"
+          "path": "sounds/Rock Crash Sound Effects.mp3",
+          "backgroundColor": null
         },
         {
           "id": "knsus0kl",
           "text": "siiiiiiflement broum",
           "fileName": "sifflement et broum.mp3",
-          "path": "sounds/sifflement et broum.mp3"
+          "path": "sounds/sifflement et broum.mp3",
+          "backgroundColor": null
         },
         {
           "id": "7iku5b5t",
           "text": "chanson 1 pan le mystique",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -99,37 +112,43 @@
           "id": "llqeym7e",
           "text": "blanc chaud R8.3 G8.3 B6.2",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "dt87b9oj",
           "text": "couinements aigus",
           "fileName": "couinements aigus.mp3",
-          "path": "sounds/couinements aigus.mp3"
+          "path": "sounds/couinements aigus.mp3",
+          "backgroundColor": null
         },
         {
           "id": "q6e70m2b",
           "text": "couinements medium",
           "fileName": "couinements medium.mp3",
-          "path": "sounds/couinements medium.mp3"
+          "path": "sounds/couinements medium.mp3",
+          "backgroundColor": null
         },
         {
           "id": "sj44fmmz",
           "text": "couinements graves",
           "fileName": "couinements graves.mp3",
-          "path": "sounds/couinements graves.mp3"
+          "path": "sounds/couinements graves.mp3",
+          "backgroundColor": null
         },
         {
           "id": "014v9g18",
           "text": "créamu 2 : L'Epopée du Roc Enroll",
           "fileName": "Rock Enroll_session.mp3",
-          "path": "sounds/Rock Enroll_session.mp3"
+          "path": "sounds/Rock Enroll_session.mp3",
+          "backgroundColor": null
         },
         {
           "id": "eozrqjy9",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -141,43 +160,50 @@
           "id": "fjgafx0b",
           "text": "ville R10 G6.3 B2.2",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "ai3cm251",
           "text": "ambiance foule",
           "fileName": "foule.mp3",
-          "path": "sounds/foule.mp3"
+          "path": "sounds/foule.mp3",
+          "backgroundColor": null
         },
         {
           "id": "0wbf8kkx",
           "text": "bruit de crayon (albert camus)",
           "fileName": "_criture.mp3",
-          "path": "sounds/_criture.mp3"
+          "path": "sounds/_criture.mp3",
+          "backgroundColor": null
         },
         {
           "id": "elyq9oaf",
           "text": "Rire Sitcom",
           "fileName": "Rires Sitcom.mp3",
-          "path": "sounds/Rires Sitcom.mp3"
+          "path": "sounds/Rires Sitcom.mp3",
+          "backgroundColor": null
         },
         {
           "id": "cgoc4753",
           "text": "Créamu 3 : Polyphème amoureux",
           "fileName": "Polyph_me Amoureux.mp3",
-          "path": "sounds/Polyph_me Amoureux.mp3"
+          "path": "sounds/Polyph_me Amoureux.mp3",
+          "backgroundColor": null
         },
         {
           "id": "vkxma2ym",
           "text": "Chanson 2 : Polyphème amoureux",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "ge3z0gv9",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -189,25 +215,29 @@
           "id": "nj39j92t",
           "text": "blanc chaud R8.3 G8.3 B6.2",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "pzb21t8e",
           "text": "Créamu 2 : l'Epopée du Roc Enroll",
           "fileName": "Rock Enroll 2_session.mp3",
-          "path": "sounds/Rock Enroll 2_session.mp3"
+          "path": "sounds/Rock Enroll 2_session.mp3",
+          "backgroundColor": null
         },
         {
           "id": "v1g6epw8",
           "text": "Enroll se lève",
           "fileName": "enroll se l_ve.mp3",
-          "path": "sounds/enroll se l_ve.mp3"
+          "path": "sounds/enroll se l_ve.mp3",
+          "backgroundColor": null
         },
         {
           "id": "lvetsrb1",
           "text": "PAS NOIR",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -219,25 +249,29 @@
           "id": "vlg8zquc",
           "text": "ils sortent de scène",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "062wlofv",
           "text": "tonnerre menaçant",
           "fileName": "tonnerre mena_ant.mp3",
-          "path": "sounds/tonnerre mena_ant.mp3"
+          "path": "sounds/tonnerre mena_ant.mp3",
+          "backgroundColor": null
         },
         {
           "id": "vcb1mq2y",
           "text": "Chanson 3 : absurde",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "d0otqm9m",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -249,25 +283,29 @@
           "id": "on0v3ho3",
           "text": "R8.2 G4.3 B2.3",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "dp21d10a",
           "text": "Créamu 2 : L'Epopée du roc enroll",
           "fileName": "Rock Enroll_session.mp3",
-          "path": "sounds/Rock Enroll_session.mp3"
+          "path": "sounds/Rock Enroll_session.mp3",
+          "backgroundColor": null
         },
         {
           "id": "9shtvwt6",
           "text": "noooooooooooon",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "u65iww27",
           "text": "brooooouuuuummmm",
           "fileName": "Rock Crash Sound Effects.mp3",
-          "path": "sounds/Rock Crash Sound Effects.mp3"
+          "path": "sounds/Rock Crash Sound Effects.mp3",
+          "backgroundColor": null
         }
       ]
     },
@@ -279,25 +317,29 @@
           "id": "51ysichi",
           "text": "Jaming (Bob Marley)",
           "fileName": "Bob Marley Jammin.mp3",
-          "path": "sounds/Bob Marley Jammin.mp3"
+          "path": "sounds/Bob Marley Jammin.mp3",
+          "backgroundColor": null
         },
         {
           "id": "jgo9w3fk",
           "text": "decrescendo",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "r7v2jr9t",
           "text": "ils parlent",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "r06nxqnh",
           "text": "recrescendo",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -309,19 +351,22 @@
           "id": "pv39qeww",
           "text": "périssoire entrée",
           "fileName": "p_rissoire.mp3",
-          "path": "sounds/p_rissoire.mp3"
+          "path": "sounds/p_rissoire.mp3",
+          "backgroundColor": null
         },
         {
           "id": "bme7uecd",
           "text": "bruit écriture",
           "fileName": "_criture.mp3",
-          "path": "sounds/_criture.mp3"
+          "path": "sounds/_criture.mp3",
+          "backgroundColor": null
         },
         {
           "id": "2pyt2h0i",
           "text": "chanson 4 : Vague à l'âme",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -333,25 +378,29 @@
           "id": "dkcels4w",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3"
+          "path": "sounds/Au service de sa majest_.mp3",
+          "backgroundColor": null
         },
         {
           "id": "4gmk0o13",
           "text": "(grattements faibles)",
           "fileName": "frottements faibles.mp3",
-          "path": "sounds/frottements faibles.mp3"
+          "path": "sounds/frottements faibles.mp3",
+          "backgroundColor": null
         },
         {
           "id": "ut0kc067",
           "text": "(grattements forts)",
           "fileName": "frottements forts.mp3",
-          "path": "sounds/frottements forts.mp3"
+          "path": "sounds/frottements forts.mp3",
+          "backgroundColor": null
         },
         {
           "id": "w0zh55db",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3"
+          "path": "sounds/Au service de sa majest_.mp3",
+          "backgroundColor": null
         }
       ]
     },
@@ -363,19 +412,22 @@
           "id": "iyqnxd6c",
           "text": "(le Roi fusille le garde du regard)",
           "fileName": "tonnerre mena_ant.mp3",
-          "path": "sounds/tonnerre mena_ant.mp3"
+          "path": "sounds/tonnerre mena_ant.mp3",
+          "backgroundColor": null
         },
         {
           "id": "5axitaoc",
           "text": "Créamu 5 : Trémolo très tendu",
           "fileName": "Tr_molo tr_s tendu.mp3",
-          "path": "sounds/Tr_molo tr_s tendu.mp3"
+          "path": "sounds/Tr_molo tr_s tendu.mp3",
+          "backgroundColor": null
         },
         {
           "id": "r0e6iiga",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3"
+          "path": "sounds/Au service de sa majest_.mp3",
+          "backgroundColor": null
         }
       ]
     },
@@ -387,31 +439,36 @@
           "id": "zw5xpa9g",
           "text": "Créamu 6 : Curieuse ambiance",
           "fileName": "Curieuse Abiance.mp3",
-          "path": "sounds/Curieuse Abiance.mp3"
+          "path": "sounds/Curieuse Abiance.mp3",
+          "backgroundColor": null
         },
         {
           "id": "k8t18thc",
           "text": "Ambiance Moires",
           "fileName": "Moires.mp3",
-          "path": "sounds/Moires.mp3"
+          "path": "sounds/Moires.mp3",
+          "backgroundColor": null
         },
         {
           "id": "wd6lbfct",
           "text": "vent menaçant (\"Mau... maumau... mau... maudite ?\")",
           "fileName": "mau maumau mau maudite.mp3",
-          "path": "sounds/mau maumau mau maudite.mp3"
+          "path": "sounds/mau maumau mau maudite.mp3",
+          "backgroundColor": null
         },
         {
           "id": "p4au8plk",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "43en0cax",
           "text": "Créamu 6 : Curieuse ambiance",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -423,25 +480,29 @@
           "id": "tecuj6ob",
           "text": "pas noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "ca2gy669",
           "text": "clotho s'assomme",
           "fileName": "clotho s_assomme encore.mp3",
-          "path": "sounds/clotho s_assomme encore.mp3"
+          "path": "sounds/clotho s_assomme encore.mp3",
+          "backgroundColor": null
         },
         {
           "id": "sbvozbsu",
           "text": "Noir",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         },
         {
           "id": "ftn0y6dr",
           "text": "Chanson 5 : Chanson des Moires",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -453,13 +514,15 @@
           "id": "ujy1d7ur",
           "text": "Créamu 1 : Pan le mystique",
           "fileName": "Pan le Mystique.mp3",
-          "path": "sounds/Pan le Mystique.mp3"
+          "path": "sounds/Pan le Mystique.mp3",
+          "backgroundColor": null
         },
         {
           "id": "yym8n2z8",
           "text": "decrescendo, quand Pan parle plus de musique",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -471,13 +534,15 @@
           "id": "bwtg41iw",
           "text": "(AHHHHH) strike",
           "fileName": "strike.mp3",
-          "path": "sounds/strike.mp3"
+          "path": "sounds/strike.mp3",
+          "backgroundColor": null
         },
         {
           "id": "s1v7dfzc",
           "text": "Chanson 6 : La java du cactus et du hérisson",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     },
@@ -489,13 +554,15 @@
           "id": "nyohkwta",
           "text": "ambiance globale douce",
           "fileName": "on a fini l_ambiance finale.mp3",
-          "path": "sounds/on a fini l_ambiance finale.mp3"
+          "path": "sounds/on a fini l_ambiance finale.mp3",
+          "backgroundColor": null
         },
         {
           "id": "vwdg6pde",
           "text": "Chanson finale : les Moutons dans le ciel",
           "fileName": null,
-          "path": null
+          "path": null,
+          "backgroundColor": null
         }
       ]
     }
