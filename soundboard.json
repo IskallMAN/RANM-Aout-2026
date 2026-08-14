@@ -695,10 +695,24 @@
           "backgroundColor": "#B794F4"
         },
         {
-          "id": "k8t18thc",
-          "text": "Ambiance Moires",
-          "fileName": "Moires.mp3",
-          "path": "sounds/Moires.mp3",
+          "id": "6qbge4bc",
+          "text": "Moires gentil",
+          "fileName": "moires mignon.mp3",
+          "path": "sounds/moires mignon.mp3",
+          "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "alrenab8",
+          "text": "galatée : \"Attends, tu entends ?\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "s9dfnc84",
+          "text": "Moires pas gentil",
+          "fileName": "moires corbeaux.mp3",
+          "path": "sounds/moires corbeaux.mp3",
           "backgroundColor": "#B794F4"
         },
         {
