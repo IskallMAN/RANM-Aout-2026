@@ -325,28 +325,28 @@
           "text": "Jaming (Bob Marley)",
           "fileName": "Bob Marley Jammin.mp3",
           "path": "sounds/Bob Marley Jammin.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "jgo9w3fk",
           "text": "decrescendo",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "r7v2jr9t",
           "text": "ils parlent",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#6FAE7F"
         },
         {
           "id": "r06nxqnh",
           "text": "recrescendo",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         }
       ]
     },
@@ -359,21 +359,21 @@
           "text": "périssoire entrée",
           "fileName": "p_rissoire.mp3",
           "path": "sounds/p_rissoire.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "bme7uecd",
           "text": "bruit écriture",
           "fileName": "_criture.mp3",
           "path": "sounds/_criture.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "2pyt2h0i",
           "text": "chanson 4 : Vague à l'âme",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#D9534F"
         }
       ]
     },
@@ -386,28 +386,28 @@
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
           "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "4gmk0o13",
           "text": "(grattements faibles)",
           "fileName": "frottements faibles.mp3",
           "path": "sounds/frottements faibles.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "ut0kc067",
           "text": "(grattements forts)",
           "fileName": "frottements forts.mp3",
           "path": "sounds/frottements forts.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "w0zh55db",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
           "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         }
       ]
     },
@@ -420,21 +420,21 @@
           "text": "(le Roi fusille le garde du regard)",
           "fileName": "tonnerre mena_ant.mp3",
           "path": "sounds/tonnerre mena_ant.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "5axitaoc",
           "text": "Créamu 5 : Trémolo très tendu",
           "fileName": "Tr_molo tr_s tendu.mp3",
           "path": "sounds/Tr_molo tr_s tendu.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "r0e6iiga",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
           "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         }
       ]
     },
@@ -447,35 +447,35 @@
           "text": "Créamu 6 : Curieuse ambiance",
           "fileName": "Curieuse Abiance.mp3",
           "path": "sounds/Curieuse Abiance.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "k8t18thc",
           "text": "Ambiance Moires",
           "fileName": "Moires.mp3",
           "path": "sounds/Moires.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "wd6lbfct",
           "text": "vent menaçant (\"Mau... maumau... mau... maudite ?\")",
           "fileName": "mau maumau mau maudite.mp3",
           "path": "sounds/mau maumau mau maudite.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "p4au8plk",
           "text": "Noir",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "43en0cax",
           "text": "Créamu 6 : Curieuse ambiance",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         }
       ]
     },
@@ -488,28 +488,28 @@
           "text": "pas noir",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "ca2gy669",
           "text": "clotho s'assomme",
           "fileName": "clotho s_assomme encore.mp3",
           "path": "sounds/clotho s_assomme encore.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "sbvozbsu",
           "text": "Noir",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "ftn0y6dr",
           "text": "Chanson 5 : Chanson des Moires",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#D9534F"
         }
       ]
     },
@@ -522,14 +522,14 @@
           "text": "Créamu 1 : Pan le mystique",
           "fileName": "Pan le Mystique.mp3",
           "path": "sounds/Pan le Mystique.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "yym8n2z8",
           "text": "decrescendo, quand Pan parle plus de musique",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         }
       ]
     },
@@ -542,14 +542,14 @@
           "text": "(AHHHHH) strike",
           "fileName": "strike.mp3",
           "path": "sounds/strike.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "s1v7dfzc",
           "text": "Chanson 6 : La java du cactus et du hérisson",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#D9534F"
         }
       ]
     },
@@ -562,14 +562,14 @@
           "text": "ambiance globale douce",
           "fileName": "on a fini l_ambiance finale.mp3",
           "path": "sounds/on a fini l_ambiance finale.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "vwdg6pde",
           "text": "Chanson finale : les Moutons dans le ciel",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#D9534F"
         }
       ]
     }
