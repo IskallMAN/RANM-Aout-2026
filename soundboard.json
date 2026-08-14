@@ -735,6 +735,13 @@
       "title": "Scène oo : Pause",
       "cues": [
         {
+          "id": "cs8ic6br",
+          "text": "Eclairage centre scène",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "ujy1d7ur",
           "text": "Créamu 1 : Pan le mystique",
           "fileName": "Pan le Mystique.mp3",
