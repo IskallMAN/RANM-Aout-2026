@@ -130,6 +130,13 @@
           "backgroundColor": "#F39C6B"
         },
         {
+          "id": "kigwwqsd",
+          "text": "Galatée va chercher le chariot",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "dt87b9oj",
           "text": "couinements aigus",
           "fileName": "couinements aigus.mp3",
@@ -149,6 +156,13 @@
           "fileName": "couinements graves.mp3",
           "path": "sounds/couinements graves.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "sswcewt6",
+          "text": "directement après : \"accroches toi bien, roule, et tangue, Roc Enroll",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
         },
         {
           "id": "014v9g18",
