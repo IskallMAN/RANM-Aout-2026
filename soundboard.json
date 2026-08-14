@@ -275,6 +275,13 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "rnmqlnc1",
+          "text": "Enroll : \"Oh mais vous dérangez pas comme ça m'dame galatée, je peux marcher un peu.\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "v1g6epw8",
           "text": "Enroll se lève",
           "fileName": "enroll se l_ve.mp3",
@@ -368,6 +375,13 @@
           "fileName": "Bob Marley Jammin.mp3",
           "path": "sounds/Bob Marley Jammin.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "ncptxulo",
+          "text": "Lumière",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "jgo9w3fk",
