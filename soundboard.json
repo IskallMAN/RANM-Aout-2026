@@ -52,7 +52,7 @@
           "text": "Pan le mystique",
           "fileName": "Pan le Mystique.mp3",
           "path": "sounds/Pan le Mystique.mp3",
-          "backgroundColor": "#D9534F"
+          "backgroundColor": "#B794F4"
         }
       ]
     },
@@ -76,7 +76,7 @@
         },
         {
           "id": "vhald1it",
-          "text": "polyphème apparait",
+          "text": "ce rock, pour bien faire on le nommait Enroll",
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
@@ -86,13 +86,6 @@
           "text": "brooooouuuuummmm",
           "fileName": "Rock Crash Sound Effects.mp3",
           "path": "sounds/Rock Crash Sound Effects.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "knsus0kl",
-          "text": "siiiiiiflement broum",
-          "fileName": "sifflement et broum.mp3",
-          "path": "sounds/sifflement et broum.mp3",
           "backgroundColor": "#B794F4"
         },
         {
@@ -350,6 +343,20 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "l5drfvi3",
+          "text": "le chariot tangue",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "myjgquvo",
+          "text": "ROUGE",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "9shtvwt6",
           "text": "noooooooooooon",
           "fileName": null,
@@ -365,7 +372,7 @@
         },
         {
           "id": "55s0dojs",
-          "text": "sortie des acteurs",
+          "text": "petite attente",
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
@@ -592,7 +599,7 @@
         },
         {
           "id": "gf7q9xt8",
-          "text": "Une Reine : \"Au revoir, bon courage !\"                                                                                                            Acis : \"Merci !                                                                                                                                                    Une Reine : \"Vous êtes cernés !",
+          "text": "Une Reine : \"Au revoir, bon courage !\"                                                                                                                                          Acis : \"Merci !                                                                                                                                                                                  Une Reine : \"Vous êtes cernés !",
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
@@ -647,7 +654,7 @@
         },
         {
           "id": "jcn9lw0t",
-          "text": "Blabla rocher perdu...                                                                                                                          Galatée : \"vraiment ?\"                                                                                                                        Lachésis : \"Oui, vous savez, on n'a pas tellement de visiteurs ici. La fôret est dense et maudite, alors ça repousse un peu les randonneurs.\"                                                                                                    Acis : \"Mau... maumau... mau... maudite ?\"",
+          "text": "Blabla rocher perdu...                                                                                                                                                                    Galatée : \"vraiment ?\"                                                                                                                                                            Lachésis : \"Oui, vous savez, on n'a pas tellement de visiteurs ici. La fôret est dense et maudite, alors ça repousse un peu les randonneurs.\"                                                                                                                                                                            Acis : \"Mau... maumau... mau... maudite ?\"",
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
@@ -709,7 +716,7 @@
         },
         {
           "id": "bubftpum",
-          "text": "Clotho : \"Attend, je programme la machine [...] Moufles pour Pan.\"                                                          Atropos : \"Lumière !!!\"",
+          "text": "Clotho : \"Attend, je programme la machine [...] Moufles pour Pan.\"                                                                                    Atropos : \"Lumière !!!\"",
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
@@ -831,11 +838,32 @@
       "title": "Scène finale : Enfin rentré",
       "cues": [
         {
+          "id": "yo9f8ady",
+          "text": "lumière",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
           "id": "nyohkwta",
           "text": "ambiance globale douce",
           "fileName": "on a fini l_ambiance finale.mp3",
           "path": "sounds/on a fini l_ambiance finale.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "ghx9mtnd",
+          "text": "Galatée : \"On a encore le temps de rester encore un peu.\"                                                                                                        Acis : \"Oui. Je crois que j'ai envie de chanter\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "da7r8vrv",
+          "text": "éclairage chorale",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "vwdg6pde",
