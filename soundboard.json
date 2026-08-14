@@ -117,7 +117,7 @@
       "cues": [
         {
           "id": "llqeym7e",
-          "text": "blanc chaud R8.3 G8.3 B6.2",
+          "text": "côtés R8.3 G8.3 B6.2 centre R4.2 G10 B2.3",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -179,7 +179,7 @@
       "cues": [
         {
           "id": "fjgafx0b",
-          "text": "ville R10 G6.3 B2.2",
+          "text": "côtés R10 G6.3 B2.2 centre R10 G8 B6.3",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -255,7 +255,7 @@
       "cues": [
         {
           "id": "nj39j92t",
-          "text": "blanc chaud R8.3 G8.3 B6.2",
+          "text": "côtés R8.3 G8.3 B6.2 centre R0 G6.4 B0.3",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -330,7 +330,7 @@
       "cues": [
         {
           "id": "on0v3ho3",
-          "text": "R8.2 G4.3 B2.3",
+          "text": "côtés R8.2 G4.3 B2.3 centre R6 G4.2 B2",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -778,7 +778,7 @@
         },
         {
           "id": "cs8ic6br",
-          "text": "Eclairage centre scène",
+          "text": "tracking Pan",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -819,7 +819,7 @@
       "cues": [
         {
           "id": "jmgdp6is",
-          "text": "Lumière",
+          "text": "côtés R10 G8 B0 centre R6 G8.3 B4",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -867,7 +867,7 @@
       "cues": [
         {
           "id": "yo9f8ady",
-          "text": "lumière",
+          "text": "côtés R10 G10 B4 centre R10 G6.3 B4",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
