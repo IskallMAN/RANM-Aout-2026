@@ -298,21 +298,21 @@
           "text": "Créamu 2 : L'Epopée du roc enroll",
           "fileName": "Rock Enroll_session.mp3",
           "path": "sounds/Rock Enroll_session.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         },
         {
           "id": "9shtvwt6",
           "text": "noooooooooooon",
           "fileName": null,
           "path": null,
-          "backgroundColor": null
+          "backgroundColor": "#6FAE7F"
         },
         {
           "id": "u65iww27",
           "text": "brooooouuuuummmm",
           "fileName": "Rock Crash Sound Effects.mp3",
           "path": "sounds/Rock Crash Sound Effects.mp3",
-          "backgroundColor": null
+          "backgroundColor": "#B794F4"
         }
       ]
     },
