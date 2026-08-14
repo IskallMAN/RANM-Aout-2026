@@ -647,7 +647,7 @@
       "cues": [
         {
           "id": "ju8papkr",
-          "text": "Noir",
+          "text": "côtés R6 G2 B6 tracking blanc sur acis gala",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -665,6 +665,20 @@
           "fileName": "Moires.mp3",
           "path": "sounds/Moires.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "wrdtjux1",
+          "text": "moires commencent a parler",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "lclztssh",
+          "text": "tracking devient milieu de scène R2 G2 B6.3",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "jcn9lw0t",
