@@ -192,15 +192,8 @@
           "backgroundColor": "#B794F4"
         },
         {
-          "id": "dnpv1ofz",
-          "text": "signal indeterminé",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
           "id": "0wbf8kkx",
-          "text": "bruit de crayon (albert camus)",
+          "text": "(bruit de crayon (albert camus))",
           "fileName": "_criture.mp3",
           "path": "sounds/_criture.mp3",
           "backgroundColor": "#B794F4"
