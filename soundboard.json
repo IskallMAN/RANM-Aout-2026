@@ -783,11 +783,32 @@
       "title": "Scène 8 : L'esclavage c'est mal",
       "cues": [
         {
+          "id": "jmgdp6is",
+          "text": "Lumière",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "0q3wltyc",
+          "text": "Enroll : \"AAAAAAAAHHHHHHHH!!!!!\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "bwtg41iw",
-          "text": "(AHHHHH) strike",
+          "text": "Strike",
           "fileName": "strike.mp3",
           "path": "sounds/strike.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "88x97a8c",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "s1v7dfzc",
@@ -795,6 +816,13 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#D9534F"
+        },
+        {
+          "id": "hhxe9f5p",
+          "text": "Enroll : \"Enroll, Roc, Fils d'Etna.\"                                                                                                                                              Sisyphe ; \"Sisyphe, Roi de Corinthe.",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
         }
       ]
     },
