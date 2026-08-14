@@ -536,11 +536,32 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "q0cpla9z",
+          "text": "Une Rein : \"adjugé, nous allons faire acter cette réforme, et le peuple pourra acheter des vitres, grâce a la générosité de leurs Reines\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "w0zh55db",
           "text": "Créamu 4 : Au service de sa majesté",
           "fileName": "Au service de sa majest_.mp3",
           "path": "sounds/Au service de sa majest_.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "6ffv2fan",
+          "text": "Révérence et sortie du Doléancier",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "ytwps6ru",
+          "text": "Noir",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         }
       ]
     },
