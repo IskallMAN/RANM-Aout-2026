@@ -687,6 +687,13 @@
       "title": "Scène 7b : Clotho aiie",
       "cues": [
         {
+          "id": "ik3uq4xq",
+          "text": "Ambiance Moires toujours",
+          "fileName": "Moires.mp3",
+          "path": "sounds/Moires.mp3",
+          "backgroundColor": "#B794F4"
+        },
+        {
           "id": "tecuj6ob",
           "text": "pas noir",
           "fileName": null,
@@ -701,6 +708,13 @@
           "backgroundColor": "#B794F4"
         },
         {
+          "id": "bubftpum",
+          "text": "Clotho : \"Attend, je programme la machine [...] Moufles pour Pan.\"                                                          Atropos : \"Lumière !!!\"",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "sbvozbsu",
           "text": "Noir",
           "fileName": null,
@@ -713,13 +727,6 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#D9534F"
-        },
-        {
-          "id": "ik3uq4xq",
-          "text": "Ambiance Moires toujours",
-          "fileName": "Moires.mp3",
-          "path": "sounds/Moires.mp3",
-          "backgroundColor": "#B794F4"
         }
       ]
     },
