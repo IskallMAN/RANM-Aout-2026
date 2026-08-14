@@ -669,8 +669,8 @@
         {
           "id": "zw5xpa9g",
           "text": "Créamu 6 : Curieuse ambiance",
-          "fileName": "Curieuse Abiance.mp3",
-          "path": "sounds/Curieuse Abiance.mp3",
+          "fileName": "Curieuse-Ambiance.mp3",
+          "path": "sounds/Curieuse-Ambiance.mp3",
           "backgroundColor": "#B794F4"
         },
         {
@@ -739,8 +739,8 @@
         {
           "id": "43en0cax",
           "text": "Créamu 6 : Curieuse ambiance",
-          "fileName": null,
-          "path": null,
+          "fileName": "Curieuse-Ambiance.mp3",
+          "path": "sounds/Curieuse-Ambiance.mp3",
           "backgroundColor": "#B794F4"
         }
       ]
