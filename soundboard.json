@@ -572,13 +572,6 @@
           "backgroundColor": "#F39C6B"
         },
         {
-          "id": "bme7uecd",
-          "text": "bruit écriture",
-          "fileName": "_criture.mp3",
-          "path": "sounds/_criture.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
           "id": "h1zlr3ho",
           "text": "Pan : \"tourne toi pour voir, peut être que sous un autre angle [...]\"                                                  Panmuphle : \"va-t-en donc, mais va-t-en donc !\"                                                                                         Sortie de Pan",
           "fileName": null,
@@ -716,18 +709,18 @@
       "title": "Scène 7a : Moires",
       "cues": [
         {
-          "id": "ju8papkr",
-          "text": "côtés R6 G2 B6 tracking blanc sur acis gala",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
           "id": "zw5xpa9g",
           "text": "Créamu 6 : Curieuse ambiance (40)",
           "fileName": "Curieuse-Ambiance.mp3",
           "path": "sounds/Curieuse-Ambiance.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "ju8papkr",
+          "text": "côtés R6 G2 B6 tracking blanc sur acis gala",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "6qbge4bc",
