@@ -992,18 +992,18 @@
       "title": "Scène finale : Enfin rentré",
       "cues": [
         {
-          "id": "yo9f8ady",
-          "text": "côtés R10 G10 B4 centre R10 G6.3 B4",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
           "id": "nyohkwta",
           "text": "ambiance globale douce",
           "fileName": "on a fini l_ambiance finale.mp3",
           "path": "sounds/on a fini l_ambiance finale.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "yo9f8ady",
+          "text": "côtés R10 G10 B4 centre R10 G6.3 B4",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "ghx9mtnd",
