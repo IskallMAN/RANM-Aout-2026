@@ -620,13 +620,6 @@
           "backgroundColor": "#6FAE7F"
         },
         {
-          "id": "w0zh55db",
-          "text": "Créamu 4 : Au service de sa majesté",
-          "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
           "id": "6ffv2fan",
           "text": "Révérence et sortie du Doléancier",
           "fileName": null,
@@ -634,8 +627,22 @@
           "backgroundColor": "#6FAE7F"
         },
         {
+          "id": "dkwftevw",
+          "text": "la séance est fermée",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "w0zh55db",
+          "text": "Créamu 4 : Au service de sa majesté",
+          "fileName": "Au service de sa majest_.mp3",
+          "path": "sounds/Au service de sa majest_.mp3",
+          "backgroundColor": "#B794F4"
+        },
+        {
           "id": "ytwps6ru",
-          "text": "Noir",
+          "text": "fade out",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
