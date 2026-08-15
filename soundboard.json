@@ -909,6 +909,34 @@
       "title": "Scène 8 : L'esclavage c'est mal",
       "cues": [
         {
+          "id": "d98tcyfr",
+          "text": "centre scène",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F4D35E"
+        },
+        {
+          "id": "vasp5fe1",
+          "text": "marcel dans publique",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "fya4gv6p",
+          "text": "tracking marcel",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "ywil7jrd",
+          "text": "marcel sur scène",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
           "id": "jmgdp6is",
           "text": "côtés R10 G8 B0 centre R6 G8.3 B4",
           "fileName": null,
@@ -924,7 +952,7 @@
         },
         {
           "id": "bwtg41iw",
-          "text": "Strike",
+          "text": "Strike (30)",
           "fileName": "strike.mp3",
           "path": "sounds/strike.mp3",
           "backgroundColor": "#B794F4"
