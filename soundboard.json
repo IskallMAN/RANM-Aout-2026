@@ -495,6 +495,13 @@
       "title": "Scène 5 : Panmuphle",
       "cues": [
         {
+          "id": "5d40fo2f",
+          "text": "projo tracking",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F4D35E"
+        },
+        {
           "id": "ucedymxo",
           "text": "attendre que panmuphle soit placé",
           "fileName": null,
@@ -503,7 +510,14 @@
         },
         {
           "id": "xua7ux7k",
-          "text": "côtés R4.1 G8.2 B8.2  centre R2- G4 B10",
+          "text": "centre R2- G4 B10",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "wadxw7vl",
+          "text": "centre scène 1 seul",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -528,6 +542,20 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "ftud6zgl",
+          "text": "pan parle",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "3sbqn8fr",
+          "text": "projo tracking",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "bme7uecd",
@@ -585,29 +613,8 @@
           "backgroundColor": "#B794F4"
         },
         {
-          "id": "c4vijezu",
-          "text": "Signal",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "4gmk0o13",
-          "text": "(grattements faibles)",
-          "fileName": "frottements faibles.mp3",
-          "path": "sounds/frottements faibles.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ut0kc067",
-          "text": "(grattements forts)",
-          "fileName": "frottements forts.mp3",
-          "path": "sounds/frottements forts.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
           "id": "q0cpla9z",
-          "text": "Une Rein : \"adjugé, nous allons faire acter cette réforme, et le peuple pourra acheter des vitres, grâce a la générosité de leurs Reines\"",
+          "text": "Une Reine : \"adjugé, nous allons faire acter cette réforme, et le peuple pourra acheter des vitres, grâce a la générosité de leurs Reines\"",
           "fileName": null,
           "path": null,
           "backgroundColor": "#6FAE7F"
@@ -655,7 +662,7 @@
         },
         {
           "id": "5axitaoc",
-          "text": "Créamu 5 : Trémolo très tendu",
+          "text": "Créamu 5 : Trémolo très tendu  (50)",
           "fileName": "Tr_molo tr_s tendu.mp3",
           "path": "sounds/Tr_molo tr_s tendu.mp3",
           "backgroundColor": "#B794F4"
