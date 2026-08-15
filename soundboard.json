@@ -6,6 +6,13 @@
       "title": "Scène 0 : Moutons",
       "cues": [
         {
+          "id": "33v4p8tt",
+          "text": "projo centre scène",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F4D35E"
+        },
+        {
           "id": "9v1q3uaf",
           "text": "Noir",
           "fileName": null,
@@ -60,6 +67,13 @@
       "id": "8yvymju7",
       "title": "Scène -1 : Maisquestcequisestpassé ?",
       "cues": [
+        {
+          "id": "ig2x3qrs",
+          "text": "projo tracking",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F4D35E"
+        },
         {
           "id": "h0o0ibxm",
           "text": "silence",
@@ -137,6 +151,13 @@
       "title": "Scène 1 : Rencontre avec Enroll",
       "cues": [
         {
+          "id": "hclznxqt",
+          "text": "projo centre scène",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F4D35E"
+        },
+        {
           "id": "llqeym7e",
           "text": "côtés R8.3 G8.3 B6.2 centre R4.2 G10 B2.3",
           "fileName": null,
@@ -191,6 +212,13 @@
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
+        },
+        {
+          "id": "ylk6ilrf",
+          "text": "fade away",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#B794F4"
         }
       ]
     },
