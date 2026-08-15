@@ -703,7 +703,7 @@
         },
         {
           "id": "zw5xpa9g",
-          "text": "Créamu 6 : Curieuse ambiance",
+          "text": "Créamu 6 : Curieuse ambiance (40)",
           "fileName": "Curieuse-Ambiance.mp3",
           "path": "sounds/Curieuse-Ambiance.mp3",
           "backgroundColor": "#B794F4"
@@ -785,6 +785,13 @@
       "title": "Scène 7b : Clotho aiie",
       "cues": [
         {
+          "id": "cj3s2s82",
+          "text": "lumière tracking",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F4D35E"
+        },
+        {
           "id": "ik3uq4xq",
           "text": "Ambiance Moires toujours",
           "fileName": "Moires.mp3",
@@ -793,7 +800,7 @@
         },
         {
           "id": "tecuj6ob",
-          "text": "pas noir",
+          "text": "centre",
           "fileName": null,
           "path": null,
           "backgroundColor": "#F39C6B"
@@ -804,6 +811,20 @@
           "fileName": "clotho s_assomme.mp3",
           "path": "sounds/clotho s_assomme.mp3",
           "backgroundColor": "#B794F4"
+        },
+        {
+          "id": "4gdq23ry",
+          "text": "pan parle",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#6FAE7F"
+        },
+        {
+          "id": "lq234oqj",
+          "text": "lumière sur pan",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#F39C6B"
         },
         {
           "id": "bubftpum",
