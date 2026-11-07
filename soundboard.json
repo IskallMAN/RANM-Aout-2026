@@ -3,143 +3,94 @@
   "scenes": [
     {
       "id": "na05zcmr",
-      "title": "Scène 0 : Moutons",
+      "title": "Scène 0",
       "cues": [
         {
-          "id": "33v4p8tt",
-          "text": "projo centre scène",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F4D35E"
-        },
-        {
-          "id": "9v1q3uaf",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "tq5rii9o",
-          "text": "bêlements moutons doux (live)",
-          "fileName": null,
-          "path": null,
+          "id": "ahs53s0h",
+          "text": "Le rideau constitué d'enfants se tenant la main s'ouvre en 2 – bruitage d'un rideau qui s'ouvre.",
+          "fileName": "Curtain sfx.mp3",
+          "path": "sounds/Curtain sfx.mp3",
           "backgroundColor": "#6FAE7F"
         },
         {
-          "id": "1c4h4niu",
-          "text": "sifflement et brooooouuuuummm (16)",
-          "fileName": "sifflement et broum.mp3",
-          "path": "sounds/sifflement et broum.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ye4jq725",
-          "text": "Rouge",
+          "id": "mm9met4g",
+          "text": "THALIE : [fièrement] Thalie, Muse de la Comédie.",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F39C6B"
+          "backgroundColor": null
         },
         {
-          "id": "adkzmhw4",
-          "text": "bêlements moutons forts (live)",
+          "id": "k3yz7yya",
+          "text": "HENRI : Et bien que le spectacle commence. Bon, posons le décor !",
           "fileName": null,
           "path": null,
+          "backgroundColor": null
+        },
+        {
+          "id": "bkanat9v",
+          "text": "Imaginons une plage en Méditerranée [Décors humains et matériels, Créamao méditerranéenne],",
+          "fileName": "ambiance-mediterann_e.mp3",
+          "path": "sounds/ambiance-mediterann_e.mp3",
+          "backgroundColor": "#5AA9E6"
+        },
+        {
+          "id": "60pa3bqz",
+          "text": "mais pas n'importe où en Méditerranée. Disons... en Italie, ou mieux ! Au large de la Sicile, sur les îles Eoliennes. [Comptant sur ses doigts] Lipari, Salina, Vulcano, Stromboli, Panarea, Filicudi... De l'eau transparente, cristalline, des crustacés, des poissons et des coquillages dans tous les sens, le Stromboli en éruption...",
+          "fileName": "erruption.mp3",
+          "path": "sounds/erruption.mp3",
           "backgroundColor": "#6FAE7F"
         },
         {
-          "id": "rzd52k9i",
-          "text": "Noir",
+          "id": "bp1l0z7r",
+          "text": "[...]",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F39C6B"
+          "backgroundColor": null
         },
         {
-          "id": "k582874p",
-          "text": "Pan le mystique (46)",
-          "fileName": "Pan le Mystique.mp3",
-          "path": "sounds/Pan le Mystique.mp3",
-          "backgroundColor": "#B794F4"
+          "id": "sbrq9ma4",
+          "text": "THALIE : Quotidienne ? Décalée Catane",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": null
+        },
+        {
+          "id": "c3hcb5xz",
+          "text": "SURIMIDAS : Oui, je suis riche depuis la découverte d'un trésor il y a un peu plus de 2 ans. Depuis, je me suis attaché les services de mon intendante Nacresus, c'est une perle. Ainsi, je peux me reposer, mais également faire la fête, danser et chanter. J'ai pour but de populariser la danse crabe. C'est comme une danse trad', mais avec quelques particularités propres à notre espèce. Regardez plutôt ! [Créamao danse crabitionnelle. Henri, Thalie, Surimias et Nacresus se donnent la main en formant un cercle] En avant, en arrière [Ils vont à gauche, puis à droite]. A gauche, à droite [Ils vont en avant, puis en arrière].",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": null
+        },
+        {
+          "id": "6xnrw9ck",
+          "text": "CHANSON 1 : TCHIK TCHAK",
+          "fileName": null,
+          "path": null,
+          "backgroundColor": "#D9534F"
         }
       ]
     },
     {
       "id": "8yvymju7",
-      "title": "Scène -1 : Maisquestcequisestpassé ?",
+      "title": "Scène 1",
       "cues": [
         {
-          "id": "ig2x3qrs",
-          "text": "projo tracking",
+          "id": "m7aj0gkk",
+          "text": "[...]",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F4D35E"
+          "backgroundColor": null
         },
         {
-          "id": "h0o0ibxm",
-          "text": "silence",
+          "id": "waqnl9o5",
+          "text": "HENRI : Science ou finance, il faut choisir. Bernadette et Michel sont emballés par cette idée à la fois mystérieuse et pleine de sens, de faire appel à la nature. Rêveurs, ils commencent à se perdre dans les méandres de leur imagination. Ils entendent, peut-être dans leur tête, ils ne savent plus vraiment si c'est réel, une musique douce, mélodieuse et mélancolique.",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#6FAE7F"
+          "backgroundColor": null
         },
         {
-          "id": "bshgkaey",
-          "text": "tracking blanc",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "a0pcn2wv",
-          "text": "revenons un peu en arrière Shall we ?",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "c31poc94",
-          "text": "broum inversé (14)",
-          "fileName": "sifflement et broum invers_.mp3",
-          "path": "sounds/sifflement et broum invers_.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "vhald1it",
-          "text": "ce rock, pour bien faire on le nommait Enroll",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "58jlhp6e",
-          "text": "brooooouuuuummmm (14)",
-          "fileName": "Rock Crash Sound Effects.mp3",
-          "path": "sounds/Rock Crash Sound Effects.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ysz0a908",
-          "text": "Voilà. Maintenant que tout le monde est au points, revenons a nos moutons !",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "0gs5rdc2",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "o0sdq5g4",
-          "text": "éclairage chorale",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "7iku5b5t",
-          "text": "chanson 1 pan le mystique",
+          "id": "lq4t55p6",
+          "text": "MUSIQUE 1 : GAUVIN LES CHEVALIERS",
           "fileName": null,
           "path": null,
           "backgroundColor": "#D9534F"
@@ -148,894 +99,66 @@
     },
     {
       "id": "l60ohqix",
-      "title": "Scène 1 : Rencontre avec Enroll",
+      "title": "Scène 2",
       "cues": [
         {
-          "id": "hclznxqt",
-          "text": "projo centre scène",
+          "id": "q62wzqwr",
+          "text": "[...]",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F4D35E"
+          "backgroundColor": null
         },
         {
-          "id": "llqeym7e",
-          "text": "côtés R8.3 G8.3 B6.2 centre R4.2 G10 B2.3",
+          "id": "r9tla47d",
+          "text": "HENRI : Bien que ce message soit malgré tout un peu porteur d'espoir, je comprends que ce ne soit pas très réjouissant pour nos bergers.",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F39C6B"
+          "backgroundColor": null
         },
         {
-          "id": "kigwwqsd",
-          "text": "Galatée va chercher le chariot",
+          "id": "qszixxmy",
+          "text": "CHANSON 2 : VAGUE A L'ÂME",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "dt87b9oj",
-          "text": "couinements aigus",
-          "fileName": "couinements aigus.mp3",
-          "path": "sounds/couinements aigus.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "q6e70m2b",
-          "text": "couinements medium",
-          "fileName": "couinements medium.mp3",
-          "path": "sounds/couinements medium.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "sj44fmmz",
-          "text": "couinements graves",
-          "fileName": "couinements graves.mp3",
-          "path": "sounds/couinements graves.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "sswcewt6",
-          "text": "directement après : \"accroches toi bien, roule, et tangue, Roc Enroll",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "014v9g18",
-          "text": "créamu 2 : L'Epopée du Roc Enroll (24)",
-          "fileName": "Rock-Enroll-1_session.mp3",
-          "path": "sounds/Rock-Enroll-1_session.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "eozrqjy9",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "ylk6ilrf",
-          "text": "fade away",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#B794F4"
+          "backgroundColor": "#D9534F"
         }
       ]
     },
     {
       "id": "l8pfp7kw",
-      "title": "Scène 2 : Polyfemme",
+      "title": "Scène 3",
       "cues": [
         {
-          "id": "fjgafx0b",
-          "text": "côtés R10 G6.3 B2.2 centre R10 G8 B6.3",
+          "id": "f8uu3g32",
+          "text": "[...]",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F39C6B"
+          "backgroundColor": null
         },
         {
-          "id": "ai3cm251",
-          "text": "ambiance foule",
-          "fileName": "foule.mp3",
-          "path": "sounds/foule.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "tu3hoxi6",
-          "text": "Mais j'y crois pas ! T'es encore plus bête qu'on n'dit! tu t'appelles PolyphEme et pas PolyphAme",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "elyq9oaf",
-          "text": "Rire Sitcom",
-          "fileName": "Rires Sitcom.mp3",
-          "path": "sounds/Rires Sitcom.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "vuukq0m7",
-          "text": "Monologue Polyphème : \"je prends grand soin de mon troupeau, je garderai l'oeil ouvert si quelqu'un est intéressé",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "cgoc4753",
-          "text": "Créamu 3 : Polyphème amoureux (40)",
-          "fileName": "Polyph_me Amoureux.mp3",
-          "path": "sounds/Polyph_me Amoureux.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ge3z0gv9",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "ihm8kuc0",
-          "text": "éclairage chorale",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "vkxma2ym",
-          "text": "Chanson 2 : Polyphème amoureux",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#D9534F"
-        }
-      ]
-    },
-    {
-      "id": "412rayg1",
-      "title": "Scène 3a : Perdus ?",
-      "cues": [
-        {
-          "id": "nj39j92t",
-          "text": "côtés R8.3 G8.3 B6.2 centre R0 G6.4 B0.3",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "pzb21t8e",
-          "text": "Créamu 2 : l'Epopée du Roc Enroll",
-          "fileName": "Rock-Enroll-Verdi_session.mp3",
-          "path": "sounds/Rock-Enroll-Verdi_session.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ng4fl4n2",
-          "text": "reine qui sait tout",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "n9va7atd",
-          "text": "bruit d'écriture",
-          "fileName": "_criture.mp3",
-          "path": "sounds/_criture.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "rnmqlnc1",
-          "text": "Enroll : \"Oh mais vous dérangez pas comme ça m'dame galatée, je peux marcher un peu.\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "v1g6epw8",
-          "text": "Enroll se lève (26)",
-          "fileName": "enroll se l_ve.mp3",
-          "path": "sounds/enroll se l_ve.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "lvetsrb1",
-          "text": "PAS NOIR",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        }
-      ]
-    },
-    {
-      "id": "zsstgvdt",
-      "title": "Scène 3b : Philosophes",
-      "cues": [
-        {
-          "id": "vlg8zquc",
-          "text": "ils sortent de scène",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "062wlofv",
-          "text": "tonnerre menaçant (42)",
-          "fileName": "tonnerre mena_ant.mp3",
-          "path": "sounds/tonnerre mena_ant.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "d0otqm9m",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "o9ei912i",
-          "text": "éclairage Chorale",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "vcb1mq2y",
-          "text": "Chanson 3 : absurde",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#D9534F"
-        }
-      ]
-    },
-    {
-      "id": "nyztvcpz",
-      "title": "Scène 4-1 : Chute d'Enroll",
-      "cues": [
-        {
-          "id": "on0v3ho3",
-          "text": "côtés R8.2 G4.3 B2.3 centre R6 G4.2 B2",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "dp21d10a",
-          "text": "Créamu 2 : L'Epopée du roc enroll (20)",
-          "fileName": "Rock-Enroll-3_session.mp3",
-          "path": "sounds/Rock-Enroll-3_session.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "l5drfvi3",
-          "text": "le chariot tangue",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "myjgquvo",
-          "text": "ROUGE",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "9shtvwt6",
-          "text": "noooooooooooon",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "u65iww27",
-          "text": "brooooouuuuummmm",
-          "fileName": "Rock Crash Sound Effects.mp3",
-          "path": "sounds/Rock Crash Sound Effects.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "55s0dojs",
-          "text": "petite attente",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "lot2ro6r",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        }
-      ]
-    },
-    {
-      "id": "narf4ecv",
-      "title": "Scène 4-2 : La mousse",
-      "cues": [
-        {
-          "id": "51ysichi",
-          "text": "Jaming (Bob Marley)",
-          "fileName": "Bob Marley Jammin.mp3",
-          "path": "sounds/Bob Marley Jammin.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ncptxulo",
-          "text": "côtés R8.2 G8 B0   Milieu R10 G0 B6",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "jgo9w3fk",
-          "text": "decrescendo",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "r7v2jr9t",
-          "text": "ils parlent",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "r06nxqnh",
-          "text": "recrescendo",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ailzsbp2",
-          "text": "signal de guilhem",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "tjk3p9iq",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        }
-      ]
-    },
-    {
-      "id": "y6rg26sp",
-      "title": "Scène 5 : Panmuphle",
-      "cues": [
-        {
-          "id": "5d40fo2f",
-          "text": "projo tracking",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F4D35E"
-        },
-        {
-          "id": "ucedymxo",
-          "text": "attendre que panmuphle soit placé",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "xua7ux7k",
-          "text": "centre R2- G4 B10",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "wadxw7vl",
-          "text": "centre scène 1 seul",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "peqr9g3r",
-          "text": "entrée de la périssoire",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "pv39qeww",
-          "text": "périssoire entrée",
-          "fileName": "p_rissoire.mp3",
-          "path": "sounds/p_rissoire.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "wcnvirwg",
-          "text": "Panmuphle monologue d'intro : \"planche... Dégeulasses, et décide, devant public, d'y installer un satiatoire avant d'entamer l'ascension du mont sus-cité.  Mmmh satiatoire...\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "ftud6zgl",
-          "text": "pan parle",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "3sbqn8fr",
-          "text": "projo tracking",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "h1zlr3ho",
-          "text": "Pan : \"tourne toi pour voir, peut être que sous un autre angle [...]\"                                                  Panmuphle : \"va-t-en donc, mais va-t-en donc !\"                                                                                         Sortie de Pan",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "2gslhymv",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "jjqjgo6i",
-          "text": "éclairage chorale",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "2pyt2h0i",
-          "text": "chanson 4 : Vague à l'âme",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#D9534F"
-        }
-      ]
-    },
-    {
-      "id": "lxa6jabd",
-      "title": "Scène 6a : Les reines...",
-      "cues": [
-        {
-          "id": "0xljegfo",
-          "text": "côté R8.3 G4.1 B2  Centre blanc",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "dkcels4w",
-          "text": "Créamu 4 : Au service de sa majesté (70)",
-          "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "q0cpla9z",
-          "text": "Une Reine : \"adjugé, nous allons faire acter cette réforme, et le peuple pourra acheter des vitres, grâce a la générosité de leurs Reines\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "6ffv2fan",
-          "text": "Révérence et sortie du Doléancier",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "dkwftevw",
-          "text": "la séance est fermée",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "w0zh55db",
-          "text": "Créamu 4 : Au service de sa majesté",
-          "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ytwps6ru",
-          "text": "fade out",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        }
-      ]
-    },
-    {
-      "id": "kmv7vqzt",
-      "title": "Scène 6b : Elles ne savent pas tout",
-      "cues": [
-        {
-          "id": "uee83qxv",
-          "text": "en fait non",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "gf7q9xt8",
-          "text": "Une Reine : \"Au revoir, bon courage !\"                                                                                                                                          Acis : \"Merci !                                                                                                                                                                                  Une Reine : \"Vous êtes cernés !",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "5axitaoc",
-          "text": "Créamu 5 : Trémolo très tendu  (50)",
-          "fileName": "Tr_molo tr_s tendu.mp3",
-          "path": "sounds/Tr_molo tr_s tendu.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "loprnqoa",
-          "text": "Une Reine :\"Hmmm... dur, dur... ,bon, à plus !                                                                                                                     Mais tu vas arrêter de te gratter toi ?\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "r0e6iiga",
-          "text": "Créamu 4 : Au service de sa majesté",
-          "fileName": "Au service de sa majest_.mp3",
-          "path": "sounds/Au service de sa majest_.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "gnqmkuui",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        }
-      ]
-    },
-    {
-      "id": "o5ah6l8k",
-      "title": "Scène 7a : Moires",
-      "cues": [
-        {
-          "id": "zw5xpa9g",
-          "text": "Créamu 6 : Curieuse ambiance (40)",
-          "fileName": "Curieuse-Ambiance.mp3",
-          "path": "sounds/Curieuse-Ambiance.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "ju8papkr",
-          "text": "côtés R6 G2 B6 tracking blanc sur acis gala",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "6qbge4bc",
-          "text": "Moires gentil",
-          "fileName": "moires mignon.mp3",
-          "path": "sounds/moires mignon.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "alrenab8",
-          "text": "galatée : \"Attends, tu entends ?\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "s9dfnc84",
-          "text": "Moires pas gentil",
-          "fileName": "moires corbeaux.mp3",
-          "path": "sounds/moires corbeaux.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "wrdtjux1",
-          "text": "moires commencent a parler",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "lclztssh",
-          "text": "tracking devient milieu de scène R2 G2 B6.3",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "jcn9lw0t",
-          "text": "Blabla rocher perdu...                                                                                                                                                                    Galatée : \"vraiment ?\"                                                                                                                                                            Lachésis : \"Oui, vous savez, on n'a pas tellement de visiteurs ici. La fôret est dense et maudite, alors ça repousse un peu les randonneurs.\"                                                                                                                                                                            Acis : \"Mau... maumau... mau... maudite ?\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "wd6lbfct",
-          "text": "vent menaçant (\"Mau... maumau... mau... maudite ?\")",
-          "fileName": "mau maumau mau maudite.mp3",
-          "path": "sounds/mau maumau mau maudite.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "kjnmy7f7",
-          "text": "Lachésis : \"super, t'as réussi a les faire fuire ...\"                                                                              Atropos : \"Et mince [...] éteint le soleil. Quitte a s'ennuyer à mourir, autant dormir.",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "p4au8plk",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "43en0cax",
-          "text": "Créamu 6 : Curieuse ambiance",
-          "fileName": "Curieuse-Ambiance.mp3",
-          "path": "sounds/Curieuse-Ambiance.mp3",
-          "backgroundColor": "#B794F4"
-        }
-      ]
-    },
-    {
-      "id": "5snaz8h9",
-      "title": "Scène 7b : Clotho aiie",
-      "cues": [
-        {
-          "id": "cj3s2s82",
-          "text": "lumière tracking",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F4D35E"
-        },
-        {
-          "id": "ik3uq4xq",
-          "text": "Ambiance Moires toujours",
-          "fileName": "Moires.mp3",
-          "path": "sounds/Moires.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "tecuj6ob",
-          "text": "centre",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "ca2gy669",
-          "text": "clotho s'assomme",
-          "fileName": "clotho s_assomme.mp3",
-          "path": "sounds/clotho s_assomme.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "4gdq23ry",
-          "text": "pan parle",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "lq234oqj",
-          "text": "lumière sur pan",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "bubftpum",
-          "text": "Clotho : \"Attend, je programme la machine [...] Moufles pour Pan.\"                                                                                    Atropos : \"Lumière !!!\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "sbvozbsu",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "prd93zv3",
-          "text": "éclairage chorale",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "ftn0y6dr",
-          "text": "Chanson 5 : Chanson des Moires",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#D9534F"
-        }
-      ]
-    },
-    {
-      "id": "3kutu7e5",
-      "title": "Scène oo : Pause",
-      "cues": [
-        {
-          "id": "ujy1d7ur",
-          "text": "Créamu 1 : Pan le mystique",
-          "fileName": "Pan le Mystique.mp3",
-          "path": "sounds/Pan le Mystique.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "cs8ic6br",
-          "text": "tracking Pan",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "yym8n2z8",
-          "text": "decrescendo, quand Pan parle plus de musique",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "7kaw88pu",
-          "text": "[...] il serait temps de réveiller et de remettre debout ce pauvre 8, histoire de ne pas terminer à minuit. Lui ? Laisson le ici si c'est son souhait.",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "sy6m52mb",
-          "text": "Il sort",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "lfcn32vo",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        }
-      ]
-    },
-    {
-      "id": "wslmffex",
-      "title": "Scène 8 : L'esclavage c'est mal",
-      "cues": [
-        {
-          "id": "d98tcyfr",
-          "text": "centre scène",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F4D35E"
-        },
-        {
-          "id": "vasp5fe1",
-          "text": "marcel dans publique",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "fya4gv6p",
-          "text": "tracking marcel",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "ywil7jrd",
-          "text": "marcel sur scène",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "jmgdp6is",
-          "text": "côtés R10 G8 B0 centre R6 G8.3 B4",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "0q3wltyc",
-          "text": "Enroll : \"AAAAAAAAHHHHHHHH!!!!!\"",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "bwtg41iw",
-          "text": "Strike (30)",
-          "fileName": "strike.mp3",
-          "path": "sounds/strike.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "hhxe9f5p",
-          "text": "Enroll : \"Enroll, Roc, Fils d'Etna.\"                                                                                                                                              Sisyphe ; \"Sisyphe, Roi de Corinthe.",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#6FAE7F"
-        },
-        {
-          "id": "88x97a8c",
-          "text": "Noir",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "5m7wyqir",
-          "text": "éclairage Chorale",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#F39C6B"
-        },
-        {
-          "id": "s1v7dfzc",
-          "text": "Chanson 6 : La java du cactus et du hérisson",
-          "fileName": null,
-          "path": null,
-          "backgroundColor": "#D9534F"
-        }
-      ]
-    },
-    {
-      "id": "bgr3ave4",
-      "title": "Scène finale : Enfin rentré",
-      "cues": [
-        {
-          "id": "nyohkwta",
-          "text": "ambiance globale douce",
-          "fileName": "on a fini l_ambiance finale.mp3",
-          "path": "sounds/on a fini l_ambiance finale.mp3",
-          "backgroundColor": "#B794F4"
-        },
-        {
-          "id": "yo9f8ady",
-          "text": "côtés R10 G10 B4 centre R10 G6.3 B4",
+          "id": "l41l2m0g",
+          "text": "BERNADETTE : Rappelle-toi ce qu'a dit l'ornithologue, il faut avoir confiance. Allons voir ces oiseaux, nous n’avons plus rien à perdre de toute façon. Procédons avec méthode : 1. Nous remontons la pente 2. Nous regardons les oiseaux 3. Nous vérifions s'il s'agit de charognards Justement, voici quelqu'un qui pourra peut-être encore nous aider. Que fais-tu mon enfant ?",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F39C6B"
+          "backgroundColor": null
         },
         {
-          "id": "ghx9mtnd",
-          "text": "Galatée : \"On a encore le temps de rester encore un peu.\"                                                                                                        Acis : \"Oui. Je crois que j'ai envie de chanter\"",
+          "id": "cikya8f0",
+          "text": "ENFANT : [Allongé par terre, un peu rêveur, Créamao mystérieuse & planante] Rien, je suis éveillé allongé. Je mâche du laurier...",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#6FAE7F"
+          "backgroundColor": "#5AA9E6"
         },
         {
-          "id": "da7r8vrv",
-          "text": "éclairage chorale",
+          "id": "7ulb8wg3",
+          "text": "THALIE : Et en alexandrins s'il vous plaît ! Bravo Henri ! Et normalement, c'est le moment où le public applaudit.",
           "fileName": null,
           "path": null,
-          "backgroundColor": "#F39C6B"
+          "backgroundColor": null
         },
         {
-          "id": "vwdg6pde",
-          "text": "Chanson finale : les Moutons dans le ciel",
+          "id": "1463velm",
+          "text": "CHANSON 3 : LA GRUE CENDREE",
           "fileName": null,
           "path": null,
           "backgroundColor": "#D9534F"
